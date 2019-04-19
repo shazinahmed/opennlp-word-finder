@@ -1,0 +1,7 @@
+com\demo\rep\entity\NewsArticle.class
+com\demo\rep\xml\parser\DefaultXmlToObjectParser.class
+com\demo\rep\xml\parser\XmlListToObjectListParser.class
+com\demo\rep\xml\parser\DefaultXmlListToObjectListParser.class
+com\demo\rep\main\Solution.class
+com\demo\rep\xml\adapter\LocalDateAdapter.class
+com\demo\rep\xml\parser\XmlToObjectParser.class
