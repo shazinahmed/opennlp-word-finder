@@ -1,63 +1,73 @@
 package com.demo.rep.application;
 
-import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.nio.charset.Charset;
-import java.util.Collections;
+import java.time.Duration;
+import java.time.Instant;
+import java.util.List;
+import java.util.logging.Logger;
 
 import javax.xml.bind.JAXBException;
 
-import opennlp.tools.namefind.BioCodec;
-import opennlp.tools.namefind.NameFinderME;
-import opennlp.tools.namefind.NameSample;
-import opennlp.tools.namefind.NameSampleDataStream;
-import opennlp.tools.namefind.TokenNameFinderFactory;
-import opennlp.tools.namefind.TokenNameFinderModel;
-import opennlp.tools.util.InputStreamFactory;
-import opennlp.tools.util.MarkableFileInputStreamFactory;
-import opennlp.tools.util.ObjectStream;
-import opennlp.tools.util.PlainTextByLineStream;
-import opennlp.tools.util.TrainingParameters;
+import com.demo.rep.data.provider.CompanyListProvider;
+import com.demo.rep.data.provider.DefaultCompanyListProvider;
+import com.demo.rep.data.provider.DefaultNewsArticlesProvider;
+import com.demo.rep.data.provider.NewsArticlesProvider;
+import com.demo.rep.entity.Company;
+import com.demo.rep.entity.NewsArticle;
 
 public class Solution {
 
+	private static final Logger LOGGER = Logger.getLogger(Solution.class.getName());
+
 	public static void main(String[] args) throws JAXBException, IllegalStateException, FileNotFoundException {
-		long startTime = System.nanoTime();
 		//createTrainedModel();
-		
+
 		String path = "D:\\personal\\job\\RepRisk";
-		CompanyDataGenerator companyDataGenerator = new DefaultCompanyDataGenerator(path);
-		companyDataGenerator.generateData();
-		long endTime = System.nanoTime();
-		System.out.println((endTime - startTime) / 1_000_000_000.0);
+		List<Company> companies = getCompanies(path);
+		List<NewsArticle> articles = getNewsArticles(path);
+		printCompanyData(companies, articles);
 	}
 	
-	private static void createTrainedModel()
+	private static List<Company> getCompanies(String path)
 	{
-		try {
-			createModel();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
-
-	private static void createModel() throws IOException {
-		String path = "D:\\personal\\job\\RepRisk\\training_1.TXT";
-		InputStreamFactory inputStreamFactory = null;
-		inputStreamFactory = new MarkableFileInputStreamFactory(new File(path));
-		Charset charset = Charset.forName("UTF-8");
-		ObjectStream<String> lineStream = new PlainTextByLineStream(inputStreamFactory, charset);
-		ObjectStream<NameSample> sampleStream = new NameSampleDataStream(lineStream);
-
-		TokenNameFinderModel tokenNameFinderModel = NameFinderME.train("en", "company", sampleStream, TrainingParameters.defaultParams(),
-				TokenNameFinderFactory.create(null, null, Collections.emptyMap(), new BioCodec()));
+		Instant start = Instant.now();
+		LOGGER.info("Starting company data extraction from CSV");
 		
-		File output = new File("en-ner-company-c.bin");
-		FileOutputStream fileOutputStream = new FileOutputStream(output);
-		tokenNameFinderModel.serialize(fileOutputStream);
+		CompanyListProvider companyListProvider = new DefaultCompanyListProvider();
+		List<Company> companies = companyListProvider.getCompanies(path);
+		
+		Instant end = Instant.now();
+		LOGGER.info(new StringBuilder("Company data extraction from CSV completed in ").append(Duration.between(start, end).getSeconds()).append(" seconds").toString());
+		return companies;
+	}
+	
+	private static List<NewsArticle> getNewsArticles(String path)
+	{
+		Instant start = Instant.now();
+		LOGGER.info("Starting News article extraction from XML");
+		
+		NewsArticlesProvider newsArticlesProvider = new DefaultNewsArticlesProvider();
+		List<NewsArticle> articles = newsArticlesProvider.getNewsArticles(path);
+		
+		Instant end = Instant.now();
+		LOGGER.info(new StringBuilder("News Article extraction completed in ").append(Duration.between(start, end).getSeconds()).append(" seconds").toString());
+		return articles;
+	}
+	
+	private static void printCompanyData(List<Company> companies, List<NewsArticle> articles)
+	{
+		Instant start = Instant.now();
+		LOGGER.info("Calculating number of references");
+		
+		CompanyDataGenerator companyDataGenerator = new DefaultCompanyDataGenerator();
+		companyDataGenerator.generateData(companies, articles);
+		
+		Instant end = Instant.now();
+		LOGGER.info(new StringBuilder("Reference calculation completed in ").append(Duration.between(start, end).getSeconds()).append(" seconds").toString());
 	}
 
+	private static void createTrainedModel() {
+		CompanyDataTrainer companyDataTrainer = new DefaultCompanyDataTrainer();
+		companyDataTrainer.trainModel();
+	}
 }

@@ -19,15 +19,13 @@ public class DefaultXmlToObjectParser<T> implements XmlToObjectParser<T> {
 	@Override
 	public T getObject(File file) {
 		T t = null;
-		try 
-		{
+		try {
 			JAXBContext context = JAXBContext.newInstance(objectClassType);
 			Unmarshaller unmarshaller = context.createUnmarshaller();
 			t = (T) unmarshaller.unmarshal(file);
-		} catch (JAXBException e) 
-		{
-			//Ideally we shouldn't use String concatenation. This a temporary solution to handle errors in XML file.
-			LOGGER.warning("Unmarshalling failed for "+file.getName()+" , probably due to incorrectly formatted XML file");
+		} catch (JAXBException e) {
+			LOGGER.warning(new StringBuilder("Unmarshalling failed for ").append(file.getName())
+					.append(" , probably due to incorrectly formatted XML file").toString());
 		}
 		return t;
 	}

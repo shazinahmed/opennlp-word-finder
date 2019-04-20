@@ -1,0 +1,864 @@
+California provides an attractive venue for food- labeling class action plaintiffs because of its Sherman Law and Unfair Competition Law (UCL). 
+Through the Sherman Law, California adopts by incorporation the federal food labeling regulatory scheme. The UCL, under its three prongs prohibiting 
+unlawful, unfair or fraudulent business practices, permits private rights of action based on violations of other laws. So despite the fact that federal 
+law does not allow private actions to enforce Food and Drug Administration (FDA) regulations, courts have held (over the protest of defendants) that California effectively provides an indirect private right of action for violations of federal food labeling regulations.
+A schism has developed recently among U.S. District Judges in the Northern District of California concerning the requirements for stating a claim and 
+achieving standing under the UCLs unlawful prong for allegations that food labels do not conform to FDA regulations. Some courts view these allegations
+ as necessarily sounding in fraud; others do not. This distinction can affect defendants success in dismissing these suits at an early stage, 
+ when litigation expenses are modest relative to what they can become during discovery and summary judgment/class certification motion practice.
+Californias UCL was amended by Proposition 64 in 2004. Previously, any state resident could sue on behalf of the general public without an actual injury.
+Proposition 64 required plaintiffs to demonstrate actual reliance on a defendants statement and injury-in-fact. In two seminal opinions interpreting Proposition 64, known informally as Tobacco II N1 and Kwikset, N2 the California Supreme Court ruled that to state a claim and achieve standing under any prong of the UCL if that claim sounds in fraud, a plaintiff must specify the deceptive representation, the nature of the reliance, and the particular injury- in-fact sustained as a result.n1. In re Tobacco II Cases, 46 Cal. 4th 298 (Cal. 2009).n2. Kwikset Corp. v. Superior Ct., 51 Cal. 4th 310 (Cal. 2011).
+California federal courts have typically applied these standing requirements to food labeling cases brought under any of the three prongs of the UCL, 
+concluding plaintiffs claims sound in fraud whether plaintiffs alleged regulatory breaches or unregulated misrepresentations.
+Recently, though, some Northern District judges have embraced the view that UCL unlawful claims for regulatory labeling violations can exist separately
+from claims sounding in fraud. It is far easier for a plaintiff to plead the mere purchase of a product with a label that fails to conform to FDA
+regulations than to plead the specific details of a deceptive label representation, the nature of the plaintiffs reliance, and his or her 
+particularized injury, as is required for UCL fraud-based claims, which must also meet Federal Rule of Civil Procedure 9(b)s heightened pleading 
+standards when the suit is in federal court. The most recent example of this non-fraud- based approach is  <START:company> Yucatan Foods, L.P. <END> 
+2014 WL 553537 (N.D. Cal. Feb. 7, 2014),decided by U.S. District Judge Richard Seeborg. In Swearingen, plaintiffs brought just one cause of action, 
+violation of the UCLs unlawful prong. Their complaint alleged that:
+[t]he unlawful sale of misbranded food products that are illegal to sell or possess standing alone without any allegations of deception by Defendant 
+other than the implicit misrepresentation that its products are legal to sell or possess, or any review or reliance on the particular labeling claims 
+by Plaintiffs gives rise to Plaintiffs cause of action under the UCL. All Plaintiffs need to show is that they bought an unlawful product that they 
+would not have purchased absent the Defendants failure to disclose the material fact that the product was unlawful to sell or possess. Therefore, 
+this claim does not sound in fraud; instead, it alleges strict liability pursuant to the [FDA regulatory] provisions of the federal law and Sherman Law.
+ <START:company> Yucatan Foods, L.P. <END>  Complaint, 3:13-cv-03544, Document 1 at 8 (July 31, 2013).
+Judge Seeborg agreed, ruling that plaintiffs need not allege deception to proceed with this [UCL unlawful] claim,id., and denied the motion to dismiss.
+In doing so, he cited two recent decisions by his Northern District colleague, U.S. District Judge William Orrick (  <START:company> Wallaby Yogurt Co. <END>  and 
+ <START:company> Trader Joes Co. <END> ), N3 for the proposition that a plaintiff proceeding under the unlawful prong need only plead facts 
+to show it is plausible the defendant broke the law because the legislature has already determined the conduct to be unfair by virtue of legislative 
+prohibition. Swearingen, 2014 WL 553537 at *6.n3. Morgan v. Wallaby Yogurt Co., 3:13-cv- 00269, 2013 WL 5514563 at *9 (N.D. Cal. Oct. 4, 2013) and Gitson v. Trader Joe's Co., No. 3:13-cv- 01333, 2013 WL 5513711 at *9 (N.D. Cal. Oct. 4, 2013).
+Though several Northern District decisions have allowed plaintiffs to proceed under this strict liability UCL unlawful theory, others have dismissed 
+it in forceful terms. In the last few months alone, U.S. District Judge Samuel Conti in  <START:company> Frito-Lay N. Am., Inc. <END> , 2013 WL 
+5777920 (N.D. Cal. Oct. 24, 2013), U.S. District Judge Lucy Koh in Kane v.  <START:company> Chobani, Inc. <END> , 2014 WL 657300 (N.D. Cal. Feb. 20, 2014)
+, and U.S. District Judge Susan Illston in Figy v.  <START:company> Amys Kitchen, Inc. <END> , 2013 WL 6169503 (N.D. Cal. Nov. 25, 2013), all dismissed 
+UCL unlawful claims brought by the same firm that brought the Swearingen, Morgan, and Gitson cases.
+First, Judge Conti stated [P]laintiffs contend that their misbranding theory is not grounded in misrepresentation or deception, but the Court finds 
+otherwise. It is clear from Plaintiffs [complaint] that the behavior Plaintiffs allege violated FDA regulations and the Sherman Law is 
+misrepresentation or deception . . . . Wilson, 2013 WL 5777920 at *7 (N.D. Cal. Oct. 24, 2013). He also said, citing Kwikset, that plaintiffs standing 
+theory, if allowed to prevail, would be an invitation to shakedown suits. Id.
+In her ruling, Judge Koh rejected plaintiffs reliance on Morgan, Swearingen, and Gitson because these cases do not discuss the impact of Proposition 
+64 and Kwikset on the standing requirements under the UCL, and thus do not address clear California Supreme Court authority on this point. Kane, 2014 
+WL 657300 at *6. Her view was that acceptance of plaintiffs illegal product standing theory would eviscerate the enhanced standing requirements imposed by Proposition 64 and the California Supreme Courts decision in Kwikset. Kane, 2013 WL 5289253 at *9 (N.D. Cal. Sept. 19, 2013).
+Judge Illston wrote, [i]n Kwikset, the California Supreme Court held that the actual reliance requirement from Tobacco II applied to the plaintiffs 
+UCL claim even though he alleged unlawful conduct [that] was based on a [statutory] violation . . . . Figy, 2013 WL 6169503 at *3. She explained that 
+[b]ecause the statutes plaintiff relies on prohibit specific types of misrepresentations on food labels . . . the actual reliance requirement applies 
+to plaintiffs claim even though it is brought under the unlawful prong of the UCL. Id.
+A review of the briefing in these cases shows that the defendants in Wilson, Kane, and Figy vigorously challenged plaintiffs contention that a strict 
+liability UCL unlawful claim could even be a cognizable theory of liability in a food mislabeling case. On the other hand, Judge Seeborg pointed out 
+that the defendant in Swearingen [did] not explicitly address the UCL standing requirement. Swearingen, 2014 WL 553537 at *7. Of course, whether Judge 
+Seeborg might have ruled differently in Swearingen had the defendant directly attacked the viability of plaintiffs strict liability UCL standing theory
+ cannot be known.
+Most likely, the split among Northern District judges will be resolved only when an appeal reaches the Ninth Circuit. How these arguments are framed 
+by defendants may have a significant impact on the outcome of such an appeal. The outcome matters because, as Judge Conti said in Wilson, ignoring 
+the state and federal standing rules would invite lawsuits by all manner of plaintiffs who could simply troll grocery stores and the Internet looking 
+for any food product that might form the basis for a class-action lawsuit. Surely that is not the point of these consumer protection laws.
+
+After a hue and cry and subsequent boycott of the assembly session by the opposition benches over the rape of a young girl from Muzaffargarh - who 
+later committed suicide - the law minister assured the legislators that the police inquiry report would be presented in the House on Monday.
+During Friday's session, the opposition highlighted the case, in which a rape victim set herself on fire in front of a police station in Muzaffargarh 
+after authorities dropped charges against four men accused of raping her, including prime suspect Nadir Khan.
+The opposition also held a token boycott of the assembly proceedings in protest against the incident and the poor law and order situation in the 
+province.
+The girl (A) set herself on fire outside the Bait Mir Hazar Khan Police Station in protest against the injustice of police and the court after she 
+heard that the accused had been bailed out on March 13 due to lack of evidence, as police failed to investigate the case properly.
+She was a student of intermediate (second year). The accused, along with his three accomplices, kidnapped and raped her when she was going to college 
+with her brother on February 5.
+A case was registered, but the investigation officer termed the accused "innocent", who was later released from jail in the light of the faulty 
+investigation report.
+The family of the victim claimed that the police had been bribed by the accused, alleging that Rs 70,000 were paid for twisting the facts.
+On the issue, the law minister told the House that according to the FIR, the girl was not raped, and that it was a case of attempted rape.
+He further said that she had identified one of the accused - Nadir Khan - who is the younger brother-in-law of her sister. He said that the victim and 
+accused families have some business disputes too, and on the same grounds, he was bailed out and declared innocent in the police report.
+Furthermore, the law minister said that the act of some individual policemen should not be compared with all the staff of the department.
+He also criticised the role of civil society in this regard, saying that some NGOs and human rights activist Farzana Bari had been showing the poor 
+face of the government and society before the world to build only her own image.
+He assured the House that legal action would be taken by the government against the policemen if any one of them was found guilty.
+Interestingly, the law minister, when showing the innocence of the alleged culprits, also pointed out that locals also stood near the victim but did 
+not try to stop her from self-immolation.
+On this, the opposition members stood on their benches and accused the law minister of giving cover to the "killer-police" and twisting the 
+investigation, besides blaming the general public instead of the rapists.
+When the opposition did not give any chance to the chair to continue the assembly business, the law minister once again stood on his seat and said 
+that the chief minister had appointed the additional inspector general to probe and submit a report regarding the incident within the next 24 hours.
+He also assured the opposition that he would present the report in the House next Monday.
+The Punjab Assembly session on Friday started one hour and 20 minutes late from its schedule time of 9am under the chair of Deputy Speaker Sher Ali 
+Gorchani.
+Minister Malik Tanveer Aslam replied to the queries of the colleagues about Communication and Works Department.
+To a query, he informed the House that his department had no concern with the construction and completion of the new building of the Punjab Assembly 
+or its residential facilities for legislators. Answering the same question about construction of any new hostel for MPAs to accommodate them, Rana 
+Sanaullah categorically told the House that he was sure that the government under the chief ministership of Shahbaz Sharif had no plan or project to construct any new hostel.
+Opposition leader Mehmoodur Rasheed also raised the issue of disappearance of the machinery used in construction of the new assembly building, but 
+the law minister said that such machinery was safe at the site.
+It is pertinent to mention here that world fame Indian artist Om Puri during his stay in the city visited the assembly and saw the assembly proceedings.
+ The deputy speaker, treasury benches and the opposition welcomed him.
+The law minister appreciated Om Puri for announcing that he would not be part of any film having propaganda against Pakistan, and suggested him that 
+both neighbouring countries should solve their issues through talks. The assembly session will resume on Monday at 3pm.
+
+By Ben Freed
+benfreed@mlive.com
+Nearly 500 people, including a state representative and Chelsea's most well-known resident, turned out Thursday night to oppose a new sand and gravel 
+mine in Lyndon Township.
+The crowd at the Washington Street Education Center broke into applause when Jeff Daniels walked to the microphone at the front of the auditorium and 
+broke into laughter as he scolded one of the applicant's consultants for snapping a quick photo of him.
+"In the last couple days, I've been thinking about what to say, because I'm against this," he said to further applause.
+Daniels said he had thought a lot about his father, who ran a lumber company in Chelsea for a number of years, and how he would have handled the 
+situation.
+"What Dad would have done is, if it was right for the lumber company and right for the community, he'd go ahead," Daniels said.
+"But if it was right for the company and it wasn't necessarily right for everyone in the community, or if it would impact the community negatively, 
+he would kill it. It wouldn't get off of his desk."
+Mining permits
+ <START:company> McCoig Materials Inc. <END>  has applied for a special land use permit and mining permits for the property at 18100 and 18200 M-52, which 
+is owned by the Donald and Janet L. Cunningham Trust. The property, near the corner of M-52 and North Territorial, incorporates one residential house 
+and a telecommunications tower.
+ <START:company> ForEnergy LLC <END> , a consulting firm based in Lowell, chose the site and has been communicating with the Planning Commission and 
+residents on behalf of McCoig . Owner Tim Forell has attended both public hearings and said he and his team are taking the public's 
+input seriously in their plans.
+"When I see the passion (citizens are showing), we want to show empathy toward that and work with people. We respect their views," he said.
+"Believe it or not, we are going to do everything we can to work with them as best we can. Unfortunately, there is no perfect site for a sand and 
+gravel operation. It just doesn't exist."
+Forell said after the first public meeting that the proposed site is optimal, because it is in a rural area and has direct access to a major public 
+road.
+After more than three hours of public comment, the Lyndon Township Planning Commission agreed to submit its questions to the  <START:company> ForEnergy <END>  
+within two weeks and gave the consulting company until April 11 to respond to any issues they and the public presented.
+The township's staff will then have four weeks to examine the applicant's responses, and the special use and mining permits will be on the commission's
+agenda for its regularly scheduled meeting May 15.
+'The Public's evening'
+"Tonight was the public's evening ... I think everyone that wanted to talk got to talk, which is a good thing," commission chairman Kevin McLaughlin 
+said after the meeting Thursday.
+"The planning commission did not get a chance yet to ask questions of the applicant, but we're going to do that in written form and then again on May 15
+, and we'll continue from there."
+McLaughlin and the township's legal adviser indicated it would be unlikely the commission would come to a conclusion on the matter at the May 15 
+meeting, and a deadline for written public comment was set for June 12.
+Cindy Blum, who spoke during public comment, said she attempted to email her letter to the planning commission, but it bounced back because the mailbox 
+was full.
+"We do seem to be receiving a lot of mail about this," McLaughlin said. "We may have maxed out our township server ... we're working to make sure that 
+we'll receive everything."
+A range of residents stood up to speak against the mine during the meeting, including University of Michigan lecturers and professors with expertises 
+from geology to law to environmental epidemiology.
+"It seems to me like they must have whacked a hornet's nest, because I had no idea we had so many experts living out here," Kathy Bradbury said while 
+addressing the commission.
+Homeowner pleas
+While the experts delved into the important minutiae of hydrologic studies and traffic patterns, many of the most impassioned pleas came from residents 
+with homes near the property.
+"My wife has asthma, and we would be forced to move if this went through," Richard Cook said.
+Cook also said the Michigan Zoning and Enabling Act, which asserts an ordinance "shall not prevent the extraction, by mining, of valuable natural 
+resources from any property unless very serious consequences would result from the extraction of those natural resources," is not a just law if the 
+harm to the community does not rise to the level of "very serious consequence."
+"We had a reasonable expectation of what Lyndon Township would be, and we look to the board and planning commission for their protection," Gary Murphy, 
+a property owner on Island Lake, said.
+He pointed out the property owners on the lake control approximately $10 million of real estate.
+"McCoig's expectation of making a profit requires us property owners to give them millions from the investments we've made," he said.
+The Master plan
+A number of residents, including Sean Kiebler, pointed to Lyndon Township's master plan, which was adopted in 2010 and states: "The next ten years will 
+see Lyndon Township much in the same way it looks today. The Township's landscape will be dominated by public natural resource-based recreation and 
+privately held lands. The wildlife which abounds today will continue to be plentiful. The natural resources of the Township, including its air and 
+water resources, will be pristine, and there will be an overall atmosphere of health and vigor among the residents and families of the township."
+The master plan is not a regulatory document, but it is intended to serve as a foundation upon which the township can adopt regulations.
+The proposed sand and gravel mine would turn Stofer Hill, one of the highest points in Washtenaw County, into a lake over the course of 30 years.
+"The last thing we need around here is another lake 30 years from now," Daniels said. "So that's not much of a selling point."
+A number of ecologists and hydrologists said they believe the mining could affect surrounding lakes and ecosystems.
+Joel Blum, a University of Michigan professor of geology and environmental science, also pointed out if water were able to seep through the ground 
+more easily, it could release greater amounts of naturally occurring contaminants, including arsenic and nitrate, into the local groundwater.
+Forell said his company has started discussions with the township's review team about performing a pump test to more accurately assess the potential 
+hydrologic effect the mine could have on the area.
+Traffic concerns
+A number of Chelsea residents at the meeting said they came to express their concern about the trucks that would be moving along M-52 at a rate of up 
+to 80 round trips per day.
+Chelsea Planning Commission chairman George Kinzer noted with the increase in high-speed rail trains coming through the city, the addition of so many 
+trucks could complicate traffic patterns on the city's Main Street.
+"It's difficult for me to believe that the advisers to this firm have done their homework, because there's a red light in the middle of Chelsea, and 
+when that light turns red, traffic backs up across the railroad track -- it's only a block away," he said.
+"You might think it's only Chelsea; it's not a lot of traffic. Come visit us at 3 p.m. in the afternoon. There are three schools right there, and a 
+lot of people driving their kids to and from school and activities."
+The presence of children and elderly pedestrians along the haul route were also of concern to speakers from Chelsea.
+Forell said a traffic study was already underway, and his company was awaiting word from a hydrologist hired by the township to determine if and when 
+a pump test would be performed.
+
+GALESBURG - Eight-year-old Malaki Albert and his Big, Kathy Bennett, joined by Malaki's mother, Sheneatha Albert, had bowled three frames when they 
+decided to take a break. They sat in the Club Room of Northgate Lanes enjoying pizza donated by Pizza House.
+"I did six pins and five gutters," Malaki said, explaining that Bennett had a score of 36 with "one spare, one strike, a 1 pin and a 5 pin."
+Through cookie sales, a jewelry party and a night of donations where  <START:company> Cellar Pizzeria and Pub <END>  donated 10 percent of its food sales, 
+Bennett raised 
+$1,009.45 for the Big Brothers Big Sisters Bowl for Kids' Sake fundraiser at the Northgate Lanes on Saturday afternoon.
+The 13th annual event is the year's biggest fundraiser for Knox County chapter of Big Brothers Big Sisters, explained Director of Development Blake 
+Long.
+"It typically brings in $20,000," Long said. "Donations are raised by bowlers, corporate sponsors give us donations. We're accepting donations (at 
+the door.) People are really generous here in Knox County."
+Last year's event brought in around $17,000, a number topped within hours this year. By the end of the day, just over $19,000 had been raised for the 2014 Bowl for Kids' Sake.
+There are 33 children in the program and it takes about $1,000 to fund each child per year, Long explained.
+About 150 bowlers signed up for the event, many volunteers for Big Brothers Big Sisters, some members of the community involved with sponsors who just 
+wanted to support the organization.
+The 2014 Bowl for Kids' Sake was a good year for sponsors, Long explained. A typical year sees 15 to 20 sponsors, but 25 signed up to support this year.
+"I think we're really becoming more visible," Long said. "People are understanding investing in Big Brothers Big Sisters is an investment in their community."
+As long explained, the program has proven to make children more likely to go to college and help deter drug and alcohol abuse in young people.
+"Our program provides them with a role model," Long said. "A lot of these kids live with a single parent and are sort of isolated, this shows them 
+there is so much more out there to see and do."
+For Bennett, Big Brothers Big Sisters gives her the opportunity to help out a family.
+"It's hard when you're a working mom and trying to do different things with your child in the community," Bennett said. "The program is based on a 
+Little and a Big, but I see it as helping out the whole family."
+"I like the fact that it gives Malaki someone to talk to besides Mommy," Sheneatha said. "There are some things he couldn't talk about. It makes it 
+easier to have someone else."
+Bennett found out about the bowling event through her volunteer work with United Way. She had met Malaki about a year ago through the Big Brothers Big 
+Sisters Lunch Buddies program, which has a Big eat lunch at school with their Little two or more times a month.
+Since meeting, Bennett and Malaki have enjoyed spending time hanging out outside of school.
+Malaki especially likes going to the Galesburg Antiques Mall.
+"Once I got a wooden sword there," Malaki said. "I just like to look around."
+In December, Malaki joined Covenant Church, which Bennett belongs to.
+"Because of the time limits, we're limited to four hours per week," Bennett explained. "The church van picks him up on Wednesdays. As long as the 
+church van takes him, it doesn't cut into our time."
+Malaki is excited about an upcoming musical at the church.
+"I'm playing bells," Malaki said, "and my sister and my next door friend is coming."
+Big Brothers Big Sisters is not state funded, nor do they receive any grants. Though this year's Bowl for Kids' Sake event is over, those who wish to 
+donate to Big Brothers Big Sisters can reach Erica Bell, Big Brothers Big Sisters case manager, at (309) 344-2252.
+Antwon R. Martin: (309) 342-7181, ext: 266; amartin@register-mail.com; @AntwonRMartin
+
+Amanda Ciccatelli, writing for Inside Counsel, reported thatmesothelioma, a serious form of cancer mainly caused by inhalingasbestos, has caught the 
+attention of lawmakers lately. According to a U.S. government report, companies have set asidemore than $30 billion for victims of mesothelioma since 
+the 1980s.In fact, asbestos lawsuits have played a role in approximately 100companies going bankrupt. One such company is a gasketmanufacturer called 
+ <START:company> Garlock Ltd <END> . As part of its $1 billion bankruptcycase, a judge has slashed what the manufacturer owes asbestosvictims after learning that the victim's 
+lawyers abused thesystem. "It's laid bare the massive fraud that is routinely practiced inmesothelioma litigation," Lester Brickman, told NPR. 
+Brickman is aCardozo law school professor who has researched asbestoslitigation for over 20 years and who testified for Garlock. In Texas, one 
+plaintiff said his exposure to asbestos was fromGarlock after his lawyers filed a claim with another company.Meanwhile, in California, another 
+plaintiff's lawyers misled ajury to make Garlock look worse. In Philadelphia, lawyers madeevidence of their client's exposure to 20 different 
+asbestosproducts disappear. "As Hodges says in his order, we were able to demonstrate in all-- each and every one of those 15 cases -- that there 
+wasextensive suppression of exposure evidence," said Rick Magee, oneof Garlock's attorneys. Garlock convinced Judge Hodges to reduce the estimate for 
+how muchthe company owes victims. The victims' lawyers argued that thecompany still owes $1 billion. However, in his January decision,Hodges wrote that 
+that estimate is "infected with the improprietyof some law firms and inflated by the cost of defense." Peter Kraus, managing partner of  <START:company> Waters & Kraus <END>  
+in Dallas, said,"There are some of those cases that involve my firm. So I know fora fact from those cases that the judge's description of whathappened 
+is simply not correct." According to Kraus, Hodges took a radical approach with hisdecision. "It's very, very different from the rulings and findingsby 
+judges with more experience in this area." But that argument doesn't work for the Institute for Legal Reformat the U.S. Chamber of Commerce. "When you 
+start building thecase, when you start seeing more and more of these instances, yougot to really question whether this is an outlier or not," 
+saidHarold Kim, the organization's executive vice president. Kim said the case will be a wake-up call for other judges, whichwill lead to more 
+accurate estimates of what companies really owe.The judge currently estimates that Garlock owes $125 million.
+
+A MAN has appeared in court on Wednesday accused of defrauding the National Health Service out of more than £2 million.
+Trevor Cosson, (pictured right) 37, of Tenterden Rise Hastings, faces 22 fraud charges relating to alleged fraudulent activity during his time working 
+at the former Hastings and Rother Primary Care Trust as head of financial accounting.
+He allegedly authorised £1.4 million worth of payments to be made to his bank account between July 2008 and August 2012.
+Cosson also transferred a further £800,000 into his own bank account via email after stating the money was to be paid to St Michael's Hospice from the 
+NHS Shared Business Services. He joined the NHS in 2001 and worked his way up to head of finance at the former Hastings and Rother Primary Care Trust.
+Wearing a dark grey suit, white shirt and grey tie, Cosson spoke only to confirm his name during his brief appearance at Highbury Corner Magistrates' 
+Court on Wednesday. Chairman of the bench Lady Ruth Lipton said: "This matter is committed to Blackfriars Crown Court and you are to get to that court 
+at 9.30am for a preliminary hearing."
+He was granted conditional bail ahead of a preliminary hearing at Blackfriars Crown Court on March 27. The PCTs ceased to exist last year and replaced 
+by Clinical commissioning groups which are NHS organisations set up by the Health and Social Care Act 2012 to organise the delivery of NHS services in 
+England.
+
+The Brattleboro (Vt.) Reformer, March 13, 2104
+In "The Meat Racket," Christopher Leonard writes about the state of America's meat industry, most notably, poultry production. The book isn't 
+necessarily about animal welfare or the health consequences of eating animal products from factory farms. It's more about how big business has come to 
+monopolize the production of the meat we find in our supermarkets.
+"Leonard is a harsh critic of the system as it now operates, not so much because of what it might do to our health but because of what he believes it 
+does to farmers," wrote Bethany McLean, in a review of Leonard's book for the  <START:company> Washington Post <END> .
+Leonard focuses on the Tyson family, which turned  <START:company> Tyson Foods <END>  into a megalith of modern farming by buying up competitors and expanding vertically in an
+effort to control every step of production, noted McLean.
+Leonard claims Tyson's tactics have wreaked havoc on middle America, transforming it from "an archipelago of clean, prosperous towns ... with busy town 
+squares, bustling department stores and a thriving middle class" into a meth-ridden wasteland where "drugs and crime seep in ... where improvisational 
+chemists left behind toxic waste."
+While  <START:company> Tyson Group<END>  owns virtually all aspects of its food production operation, the one aspect it does not is the actual chicken raising, Leonard told Kerry 
+Trueman for civileats.com.
+"Once Tyson realized that the actual raising of the chickens was the one area of production that wasn't profitable, they offloaded the risks onto the 
+farmers."
+While Tyson pioneered the system, said Leonard,  Cargill,  <START:company> JBS <END> ,  Conagra, and  Smithfield are using Tyson's playbook.
+"It's at the expense of the American consumer, the environment, the livestock. (Tyson) pioneered the treatment of animals as widgets, like, how can we 
+squeeze these animals into ever tighter quarters, how can we breed bigger chickens faster, even though their health suffers as a consequence."
+A failed attempt by the Obama administration to rein in the abuses of the system "also illustrates the remarkable level of influence that giant meat 
+companies have in Washington, where they quietly shape public policy to their advantage through groups like the American Meat Institute and the 
+National Chicken Council," wrote Leonard in his book. "Their well-orchestrated effort to beat back Obama's reform efforts has arguably left them more 
+powerful than they were when Obama entered office. And like many of the changes in America's meat industry, it all played out under the public's radar."
+Prior to the deregulation craze that swept across America during the Reagan administration, the four biggest beef companies controlled only 44 percent 
+of the market and the four chicken producers controlled only 32 percent of the market.
+But now, according to the National Family Farm Coalition, from 1980 to 2008, dairy operations declined from 334,000 to 60,000; hog and pig operations 
+declined from 667,000 to 65,000; and cattle operations declined from 1.6 million to 956,000.
+And that's not all:  <START:company> DuPont <END>  and  Monsanto control 58 percent of the market for corn seed and  Monsanto  also 
+controls 90 percent of the transgenic soybean market and the transgenic cotton seed market.
+Meanwhile,  <START:company> Archers Daniels Midland <END>   control 90 percent of the global 
+grain trade;  <START:company> JBS Swift <END> , and Cargill control nearly 90 percent of the beef industry; 
+ <START:company> Smithfield Corp <END> and <START:company> JBS Swift <END>  control 66 percent of the 
+pork industry and  <START:company> JBS Swift <END> and  <START:company> Sanderson Farms <END>  control 
+60 percent of the poultry industry.
+While the efficiencies that have been introduced due to the consolidations have kept the cost to consumers of meat down, it has also introduced its own 
+set of hazards.
+"More and more animals are raised on a single farm, so hundreds of thousands of pigs, or hundreds of thousands of chickens, may be raised under one 
+roof," Robert Tauxe, the chief of the food-borne and diarrheal diseases branch of the Centers for Disease Control, told PBS. "This gives the 
+opportunity for pathogens to spread from one animal to another."
+While we can rail all we want at the industry, the root of all of this is the American consumers' willful blindness to the abuses of the industry, 
+just as long as meat is plentiful and cheap.
+"They're not paying attention," said Leonard. "There's too much of a mentality that if I walk into a store and the meat is there at an acceptable 
+price, I don't really care how it's produced."
+The result is not only the increase in the chances of a widespread outbreak of food poisoning, but also the "mediocritization" of meat.
+"When you industrialize meat production - and we've seen it happen first to chickens, then to hogs and cattle - you're not aiming for high quality, 
+which brings high variability," said Leonard. "You're aiming for that predictable middle point of quality, to where you can get that piece of meat to 
+ <START:company> Walmart Inc.<END>  24 hours a day as cheap as you can get it."
+What can consumers do about it? Well, you could switch to a mostly vegetarian diet, but truth be told, there are as many abuses of the free market in 
+vegetable production as there are in the meat industry. When you shop at a supermarket chain, you are basically buying right into the system.
+And while it is true that the miracle of our food industry is there is enough for everyone to eat, it is not necessarily true that the food is healthy 
+or gets to the people who need it the most. Still, there is a good argument that without factory farming, wide scale famines would be devastating the 
+world's population.
+Though most of us cannot totally opt out of the industrial farming syndrome - unless, of course, you are one of those back-to-nature types who 
+annoyingly prattle on about their own righteousness - we can choose to patronize our local farmers and purchase meat, vegetables and fruit from them. 
+We are lucky in this corner of the world to still have plenty of small farming operations that treat their animals and land with respect. And in season 
+there are lots of farmers' markets and CSAs and orchards where bountiful produce is made available. Yes, it's more expensive than the factory farmed 
+beef, chicken or carrots at the local market, but it's also more flavorful and free of the chemicals, antibiotics and hormones that make agribusiness possible.
+It also wouldn't hurt us to cut down a little bit on our consumption of meat, as far as our own health is concerned. And there's also the moral element of feasting every day on animals that have lived their less-than-comfortable short lives in brutish conditions.
+Get to know your local farmer, pay a little more for tasty, healthy food and do yourself and the world a favor.
+The Nashua (N.H.) Telegraph, March 13, 2014
+There's a fascinating - and historic - dynamic playing out right now in Washington, where U.S. Sen. Dianne Feinstein, D-Calif., has accused the CIA of 
+snooping on Senate staffers who were investigating the spy agency's interrogation techniques during the Bush era.
+What's stunning is not just that Feinstein, who chairs the Senate Intelligence Committee, made the allegations public during a remarkable speech on 
+the floor of the Senate. What's even more alarming is that Feinstein has long been an ardent supporter of the nation's intelligence community.
+At root, Feinstein alleges that the CIA provided documents about interrogation techniques to Senate investigators on a secure computer, and then 
+secretly removed some of the documents it had turned over from the computers being used by Senate staffers.
+According to an Associated Press timeline of the matter, "the committee complains to the CIA, which first denies that anything was taken from the system and later contends that removal of the documents was ordered by the White House. Officials at the White House deny in such order. Feinstein complains to the White House and gets an apology from the CIA and assurances that it won't happen again."
+But, according to Feinstein, it did happen again, though it was fascinating to hear CIA Director John Brennan deny Feinstein's allegations.
+"We wouldn't do that," Brennan told  <START:company> NBC News <END> .
+For those who think phraseology has meaning, that's a telling choice of words; not "we didn't," but "we wouldn't."
+In fact, our first thought - even before we heard from Brennan - was that it sounds exactly like the kind of thing the CIA would do.
+We think Sen. Lindsey Graham, R-S.C., is right. "Heads should roll, people should go to jail, if it's true," said Graham, who called it "Nixon stuff."
+And scary stuff, at least for anyone who cares about principles like democracy and privacy and separation of powers.
+
+'Sex workers are as much entitled to protection from sexual harassment as those working in other occupations." So said a recent ruling by New Zealand's
+Human Rights Tribunal, which awarded a sex worker sizable damages for sexual harassment by a brothel owner.
+A progressive decision that upholds sex workers' rights in this manner is only conceivable in jurisdictions such as New Zealand, where sex work was 
+decriminalized 10 years ago when the Prostitution Reform Act came into operation. In Canada, we've been sold a false dilemma that presents only the 
+possibility of a "Nordic" or "Swedish" regime or, alternatively, "Dutch" approach that regulates prostitution in our country. Since the Supreme Court 
+struck down criminal laws prohibiting communication in public for the purpose of prostitution, living off the avails of prostitution and keeping a 
+common bawdy house, the Nordic regime appears to be the approach the federal government is favouring. But Canadian sex workers, those who have the 
+biggest stake in this discussion, know that New Zealand's model for sex work merits much closer consideration.
+Prior to the Prostitution Reform Act, New Zealand's prostitution laws were very similar to ours. Prostitution itself was not criminalized, but 
+virtually all activities associated with it were, such as soliciting in public, living on the avails, operating a brothel and procuring. Adopted to 
+safeguard sex workers' human rights, the 2003 law changed everything. Sex workers in New Zealand are now covered by labour laws to promote their 
+welfare and occupational health and safety, and refusal to work as a sex worker does not affect entitlements to unemployment insurance. Proponents of 
+public health recognize that these laws enable frank displays of safer sex information in sex-work venues. Indeed, studies show high levels of condom 
+use and a very low rate of HIV among New Zealand's sex workers.
+In the decade since its passage, the Prostitution Reform Act has not resulted in any growth of the sex industry or increase in number of sex workers, 
+nor has the sky fallen. The Prostitution Law Review Committee, headed by a former police commissioner and charged with reviewing the law's operation 
+after its enactment, also found that there has been a marked improvement in employment conditions and a decrease in violence against sex workers. As 
+the Committee concluded, this was possible chiefly because the 2003 law empowered sex workers by removing the illegality of their work. Sex workers 
+and the police appreciate these laws that foster better relationships and create an environment wherein sex workers can more readily report crimes 
+committed against them. Sex workers, including those who work on the street, in managed brothels, alone or with their peers from home, feel more able 
+to refuse clients or a particular sexual practice, a strong indication that decriminalization of prostitution enhances their autonomy and safety.
+But progressive laws alone cannot completely eliminate the stigma which can act as a barrier to sex workers speaking out about abuse. Moreover, there 
+are calls for increased supports to improve safety by encouraging street-based sex workers to work indoors and supporting their transition out of 
+sex work if they desire through social programs. Nevertheless, there is no substantiated evidence of trafficking despite repeated efforts by the 
+immigration department to locate victims and traffickers. New Zealand still ranks as the most favourable Tier 1 status in the U.S. 2013 Trafficking 
+In Persons Report, and has been ever since New Zealand was included in the report in 2004. Contrary to misguided beliefs, there is also no evidence 
+that young people are being recruited into sex work by thugs.
+Canada must overcome the fallacy of false choice and see beyond the Nordic and Dutch models of regulating sex work.
+Looking at New Zealand's forward thinking and subsequent success would enable the development of laws that promote health, safety and human rights and 
+better protect sex workers from violence and exploitation. If Canada is serious about respecting everyone's rights to health and security, let's pick 
+the right role models.
+Sandra Ka Hon Chu is the co-director of research and advocacy at the Canadian HIV/AIDS Legal Network. Catherine Healy is national co-ordinator of the 
+New Zealand Prostitutes' Collective.
+© Copyright (c) The Ottawa Citizen
+
+From 2011 to 2013:
+There were 541 police-involved traffic accidents.41 percent of those accidents were ultimately deemed to be preventable by the police department's 
+accident review board.19.4 percent of police-involved accidents resulted in injuries.85.5 percent of accidents which were deemed to be preventable 
+occurred while on duty.$562,295 was paid out of the county's self-insurance fund for claims from police-involved auto accidents.
+Sources: Anne Arundel County Police Department, Risk Management office.
+Neil Kenworthy was waiting to turn left into his Arnold neighborhood when he saw the headlights in his rear-view mirror.
+It was shortly before 7:40 p.m. on Jan. 19 at the intersection of College Parkway and Raintree Road. Kenworthy, 18, and a friend, both busboys at 
+nearby Deep Creek Restaurant, had just finished their shifts and were headed home.
+"I just saw a set of headlights really close to my car and he hit us," Kenworthy said.
+The rear of Kenworthy's 1994 Mercury Topaz was smashed. The car was totaled.
+"If there was anybody sitting in the back seat of my car, they probably would have died," he said.
+Following the initial shock from the crash, Kenworthy called 911. To his surprise, the dispatcher on the other end of the line already knew about the 
+collision.
+Kenworthy then noticed the Anne Arundel County police cruiser behind him with a damaged front end.
+"I was in shock," Kenworthy said. "At first I thought that the police car was there to help - then I realized that he actually hit me."
+In the past three years, county police vehicles have been involved in more than 530 traffic accidents, resulting in some $560,000 paid out in claims by the county's self-insurance fund, according to information provided to The Capital through requests made under the Maryland Public Information Act.
+More than 40 percent of those accidents were ultimately deemed to be preventable on the part of the officer or county driver, according to the data.
+The county police department's Accident Review Board examines wrecks involving all police vehicles, including those used by civilians such as Animal 
+Control officers and evidence collection units, said Cpl. Mark Gass, who sits on the board.
+The department constantly provides its officers with in-service driver education and safety tips to try and prevent accidents, police spokesman Lt. 
+T.J. Smith said.
+The agency also has tried to cut down on distractions that officers have in their cars, Smith said.
+When legislation last year prohibited the use of handheld cellphones by drivers, Police Chief Kevin Davis banned officers from using the devices while 
+behind the wheel - even though the new law exempts law enforcement officers.
+Before being named police chief in July, Davis was the assistant chief at the Prince George's County Police Department. In that post, he created the 
+"Arrive Alive" police driver safety program after three officers were killed in crashes within three years.
+But with officers in their vehicles at least eight hours a day throughout a six-day workweek, the probability of accidents remains high, Smith said.
+"Obviously, we're human beings like everybody else," he said.
+Decrease in claims
+While the percentage of accidents ultimately deemed preventable has remained relatively steady, the auto damage claims paid out by the county for 
+police have decreased more than 30 percent over the last three years - from $200,500 in 2011 to $138,500 last year, according to data provided by 
+the county's Office of Risk Management.
+The car Kenworthy was driving was owned by his mother. The family has settled, he said.
+The percentage of accidents ultimately deemed preventable is lower than in surrounding jurisdictions.
+In 2013, 46.3 percent of the 423 police-involved accidents in Prince George's County were preventable, according to an agency spokeswoman.
+In 2012, 48.3 percent of police-involved accidents in Baltimore County and 42.9 percent of those in Montgomery County were found to be preventable, 
+spokesmen for those agencies said. Both departments were unable to provide complete numbers for 2013.
+Of the 222 preventable police-involved accidents over the past three years in Anne Arundel, 85.5 percent occurred while the driver was on duty.
+Slightly fewer than 20 percent of the county's police-involved accidents during that period resulted in injuries, police data show.
+Of the accidents that resulted in injuries, county employees were more likely than civilians to be hurt. Employees were injured 65.7 percent of the 
+time, compared to 34.2 percent for civilians.
+In Kenworthy's case, both he and his passenger were taken to the hospital with minor injuries, police spokesman Justin Mulcahy said.
+The officer behind the wheel, Cpl. Keith Doyle, was uninjured. Doyle did not return a call for comment for this article.
+None of the police-involved accidents in the past three years resulted in fatalities.
+The vast majority of auto claims against the county are settled, County Attorney David Plymyer said.
+Plymyer estimated that the county defends about six to eight lawsuits resulting from auto accidents each year. Only two or three cases ultimately go 
+to court, he said.
+'Not your average guys'
+Gass, one of five members of Anne Arundel's accident review board, said the majority of collisions are relatively minor.
+While many motorists who, for instance, back into a sign may decide not to call the police or their insurance provider, Gass said, police officers are 
+held to a higher standard.
+When an accident occurs, officers are prohibited from even pulling over to the side of the road. They must stop the vehicle where the accident occurred.
+A supervisor will then go to the scene to take photos and interview drivers and witnesses, Gass said.
+Internal Affairs then presents its findings to the review board, but, to prevent favoritism, it doesn't disclose the names of the employees involved.
+The majority of accidents can be traced to inattention, improper backing and following too closely, Gass said.
+"We're not your average guy who drives to work for 40 or 30 minutes, then goes inside," Gass said. "Our car is our office."
+In addition to spending a lot of time behind the wheel, officers also have more distractions than the average driver, Gass said.
+Officers are expected to use their in-car computer and monitor their radios while responding to calls. They may also be fielding calls from supervisors or monitoring their GPS systems, Gass said.
+Many recruits who go through the police academy find that they can't pass the driving component, said O'Brien Atkninson, president of the county's Fraternal Order of Police Lodge.
+"They usually weed out the bad drivers in the academy," Atkinson said.
+Sanctions imposed
+Once an accident is determined to be preventable, Atkinson said, "sometimes they suspend the car privilege. Sometimes they fine the officer, depending on the amount of damage to the vehicle. It could result in as serious of a penalty as suspension or termination."
+Smith said that "if a person appears to have some need for driver retraining, that's going to happen and has happened."
+Additional penalties may be taken against personnel who continue to have accidents, Smith said.
+A preliminary investigation following the January accident in Arnold indicated that Doyle was at fault, Mulcahy said.
+The accident was the fourth in Doyle's 14 years with the department. Citing personnel issues, the department declined to disclose whether the three 
+previous accidents Doyle was involved in were preventable.
+In March 2008, Doyle was driving on Broadwater Road in Arnold when he crossed over the center line and struck a Buick. According to the accident 
+report, he told police that he was looking down at the time and didn't realize he had drifted into oncoming traffic.
+The following year, Doyle was in stop-and-go traffic on Benfield Boulevard near Tewkesbury Lane in Severna Park when he struck another vehicle from 
+the rear while swerving to avoid it, the accident report states.
+"Just because we have the right to speed to a call doesn't neglect the duty to drive safely," Smith said. "We don't want to want to bury somebody over
+ an accident that could have been preventable."
+ 
+<START:company> Chiquita Ltda<END> combines with Fyffes to be top banana
+LONDON (AP) -  <START:company> Chiquita BV <END>  has combined with Dublin-based Fyffes to become the world's top banana company.
+The stock-for-stock transaction announced Monday creates a global banana and fresh produce company with $4.6 billion in annual revenues.
+The new company,  <START:company> ChiquitaFyffes <END> , will have an operating presence in more than 70 countries and a workforce of approximately 
+32,000 people. It will become the largest company in the global banana market with sales of more than 160 million boxes annually.
+ <START:company> Chiquita Brands International <END>  is based in Charlotte, North Carolina, and has a big presence in the United States while <START:company> Fyffes AG <END> has a major presence in Europe.
+___
+ <START:company> McDonald's International<END>  struggles worsened by snow
+NEW YORK (AP) -  <START:company> McDonald's International<END>  is fighting to hold onto customers in the U.S. - and all that snow didn't help.
+The world's biggest hamburger chain said Monday that sales fell 1.4 percent in February at established U.S. locations. It blamed the harsh winter 
+weather, but conceded that "challenging industry dynamics" also played a role.
+After years of outperforming its rivals,  <START:company> McDonald's International<END>  has been struggling to boost sales as people flock to places like 
+ <START:company> Chipotle BV <END>  and  <START:company> Five Guys Burgers and Fries <END> . Those chains have popped up quickly across the country by 
+positioning themselves as a step up from traditional fast food in terms of quality, for a little extra money.
+___
+China auto sales rise but local brands weaken
+BEIJING (AP) - China's auto sales rose 11.3 percent in the first two months of this year but local brands suffered a decline, signaling intense 
+competition in the world's biggest auto market.
+Sales for the two-month period totaled 3.1 million vehicles, according to the China Association of Automobile Manufacturers. Sales by domestic auto 
+brands declined 1 percent to 1.2 million vehicles.
+Global automakers are spending heavily to develop models for Chinese tastes. That is squeezing fledgling domestic brands that lag in technology as 
+buyers who used to see them as entry-level purchases demand better quality.
+___
+US network to scan workers with secret clearances
+WASHINGTON (AP) - Stung by internal security lapses, U.S. intelligence officials plan to use a sweeping electronic system to continually monitor workers 
+with secret clearances, current and former officials told  <START:company> The Associated Press <END> .
+The system is intended to identify rogue agents, corrupt officials and leakers. Many of the nearly 4 million government employees who hold secret 
+clearances would be scanned by the new system.
+An administration review of the government's security clearance process due this month is expected to support the measure as part of a package of 
+comprehensive changes.
+Workers with secret clearances are already required to undergo background checks of their finances and private lives before they are hired and again 
+during periodic re-investigations.
+___
+American dropped 14,000 Feb. flights due to storms
+FORT WORTH, Texas (AP) -  <START:company> American Airlines <END>  and  <START:company> US Airways <END>  canceled more than 14,000 flights last month - more 
+than double the rate from a year earlier - as winter storms disrupted air travel.
+ <START:company> American Airlines Group Inc. <END>  said Monday that the cancelations hurt first-quarter profit, but it didn't give a figure.
+Despite the cancelations, traffic rose 0.5 percent, as passengers flew 15.08 billion miles last month.
+American and US Airways boosted capacity by 0.8 percent, so the average flight was a bit less crowded; 78.4 percent full, down from 78.7 percent a year 
+earlier. All of the capacity increase was on international flying.
+___
+  Sbarro  again files for reorganization
+NEW YORK (AP) -  <START:company> Sbarro Inc<END>  said Monday that it is filing for bankruptcy reorganization, the struggling pizza chain's second trip 
+through the process in less than three years.
+The filing comes after the company shuttered 155 of its U.S. locations last month.
+Sbarr  also filed for bankruptcy protection in April 2011 and emerged a few months later, saying that it significantly cut its 
+debt and received a capital infusion. A new CEO then led a push to revitalize the chain's image with new recipes and ovens. But the efforts apparently 
+didn't take hold.
+The company says its strategy of store closings and balance sheet restructuring will improve its profitability and reduce outstanding debt by more 
+than 80 percent.
+___
+Natural gas industry struggles to keep promises
+HOUSTON (AP) - America's plan to use more natural gas to run power plants, make chemicals, drive vehicles and heat homes may not go as smoothly as 
+expected.
+There's plenty of natural gas in the ground, everyone seems to agree. But the harsh weather this winter shows there are obstacles to producing it, 
+and more pipelines have to be built.
+The bitter temperatures boosted demand for natural gas to heat homes and businesses. But wells in some places literally froze, making it difficult for 
+some drillers to keep gas flowing. And the high demand clogged pipelines, so even when there was enough production, the gas couldn't get where it 
+needed to go.
+Shortages cropped up, and prices in some places soared to record levels.
+___
+Swiss: Money laundered from Stanford Ponzi scheme
+GENEVA (AP) - The office of Switzerland's attorney general says its criminal investigation into former Texas tycoon R. Allen Stanford's massive Ponzi 
+scheme has concluded that some of the victims' money was laundered in Swiss accounts.
+The office says the yearslong investigation is complete and all of the assets remaining in Switzerland will be returned to fraud victims.
+The  <START:company> Stanford Group (Suisse) AG <END>  was fined 1 million Swiss francs ($1.1 million) and ordered to pay between 6 million and 9 million 
+francs in claims. It has provided American authorities with banking documents and hearing transcripts for use in U.S. criminal proceedings.
+The U.S. Supreme Court ruled last month that Stanford's   victims can go forward with class-action lawsuits against those that 
+allegedly aided the $7.2 billion fraud.
+___
+Japanese bitcoin exchange files US bankruptcy case
+DALLAS (AP) - The  <START:company> Mt. Gox bitcoin exchange <END>  that recently collapsed in Japan has filed for U.S. bankruptcy protection to shield 
+itself from a lawsuit seeking to repay thousands of people whose digital currency is now missing.
+The U.S. filing made in Dallas late Sunday supplements a bankruptcy petition that  <START:company> Mt. Gox submitted <END>  in Japan at the end of last 
+month.
+ <START:company> Mt. Gox <END>  was once the world's largest exchange specializing in bitcoins, but now finds itself in a financial mess after losing 
+about 850,000 bitcoins valued at $473 million, according to court documents.
+Although it's based in Tokyo,  <START:company> Mt. Gox <END>  is opening a bankruptcy case in the U.S. in an attempt to delay a recent federal lawsuit 
+filed in Illinois on behalf of all U.S. residents burned by the exchange's abrupt demise.
+___
+By  <START:company> The Associated Press <END> =
+The Dow Jones industrial average lost 34.04 points, or 0.2 percent, to close at 16,418.68.  <START:company> The Standard & Poor's <END>  500 index edged 
+down 0.87 of a point to close at 1,877.17. The Nasdaq composite fell 1.77 points, or less than 0.1 percent, to 4,334.45.
+Benchmark U.S. crude for April delivery dropped $1.46 to $101.12 a barrel on the New York Mercantile Exchange. Wholesale gasoline fell 2 cents to 
+$2.95 per gallon. Heating oil dropped 5 cents to $2.97 per gallon. Natural gas gained 3 cents to $4.65 per 1,000 cubic feet.
+Brent crude, used to set prices for international varieties of crude, fell 92 cents to $108.08 on the ICE Futures exchange in London.
+
+Mar 15, 2014 (Mongabay News:http://news.mongabay.com Delivered by Newstex) http://mongabay-images.s3.amazonaws.com/14/0315NASA.jpg Satellite image, 
+taken on March 7, 2014 by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA's Aqua satellite, shows fires outlined in red burning on 
+Sumatra.
+Indonesian Pulp paper giant  <START:company> Asia Pacific Resources International Limited (APRIL) <END>  says it has suspended operations at a concession i
+n Riau Province in order to shift staff toward fighting back fires that threaten its plantations.In a statement issued Friday,  <START:company> APRIL <END>  
+said its plantations on Pulau Padang, a peat island off the coast of Sumatra, are at risk due to fires illegally set outside its concessions."The 
+fires are starting outside our forest concessions but with the heavy, circular winds, they're jumping everywhere," said Kusnan Rahmin, President 
+Director of  <START:company> APRIL's <END>  Indonesia operations, in a statement. "If we can't stop these fires, we will lose company assets."APRIL says it has already lost 
+400 hectares since January to fires. The company adds that it has a strict no burn policy.Yet,  <START:company> APRIL's <END>  forest management practices 
+have likely increased the risk to its operations. Like other plantation companies operating in the coastal lowlands of Riau, APRIL has dug an 
+extensive network of canals to drain peatlands in order the lower the water table to grow acacia trees. During the dry season, these areas are highly 
+vulnerable to burning. Once ignited peat fires are extremely difficult to extinguish and generate massive air pollution that contributes to the choking 
+haze now blanketing much of Sumatra.http://mongabay-images.s3.amazonaws.com/14/0315april.jpg According to Global Forest Watch, Pulau Padang lost 1
+0,000 hectares of forest, representing about 9 percent of its land mass, between 2000 and 2012. <START:company> APRIL <END>  says that 130 field staff 
+have been transferred from forestry operations to augment its 600-person firefighting team. Planting and harvesting activities on Pulau Padang have 
+been halted in the meantime.APRIL has been heavily criticized by environmentalists for its forest management practices, which include large-scale 
+destruction of rainforests, drainage of peatlands, and conflict with local communities. Unlike its biggest rival,  <START:company> Asia Pulp Paper (APP) <END> , 
+which a year ago established a moratorium on forest conversion, the company continues to source fiber from natural forests.But  <START:company> APRIL <END>  
+recently moved to improve its forest policies, committing to preserve high conservation value areas and phase deforestation out of its supply chain 
+by 2019. While greens say the commitment falls short of  <START:company> APP's <END>  policy, several groups have welcomed it as a step toward more 
+responsible forest management and are encouraged that the two forestry giants now seem to be competing over their environmental pledges, rather 
+than their rate of natural forest conversion.In contrast to  <START:company> APP <END> , which sells substantial amounts of paper and packaging products 
+to consumer-facing companies, <START:company> APRIL <END>  is primarily in the pulp business, selling woodpulp mostly to paper mills in India, China, and 
+South Korea. A small portion of its product goes into making rayon, which is used in clothing manufacturing.http://www.mongabay.com/about.htm[1]http://plus.google.com/103836144452035367032 [1]: http://www.mongabay.com/about.htm
+
+After a methane fireball killed 29 deep miners three years ago in Montcoal, W, Va., one thought kept coming back to me: What if the workers had owned 
+that mine?
+In fact, the Upper Big Branch mine was owned by  <START:company> Massey Energy <END> , a company with a notoriously poor safety record. We have since 
+learned that Massey's   criminal negligence was responsible for the miners' deaths.
+In the same year the miners died,  Massey CEO Don Blankenship walked away from the company with $17.8 million and a compensation 
+package close to $30 
+million. If the miners themselves had owned  <START:company> Upper Big Branch <END> , would they have broken safety laws and put profits over their own 
+safety?
+The question is absurd, or course, but it set me searching for any Appalachian coal mine that might be worker-owned.
+The closest thing I found was  <START:company> Himlerville BV <END> , a company town in Martin County where, from 1917 to 1927, the miners were the only stockholders and they 
+shared equally all profits, bonuses and stock dividends. The railroads drove Himlerville   out of business and the town was renamed 
+Happy, a grim irony given the Herald-Leader's recent reporting on the relentless poverty of Martin County.
+Eventually, however, my research led to Cleveland, where I found an economic model that, I believe, would have saved the West Virginia miners and 
+could go a long way toward reclaiming the foundering economy of Eastern Kentucky.
+Five years ago, the CEOs of  <START:company> Cleveland Clinic <END> , the Cleveland Foundation and some surrounding universities and hospitals decided 
+they had to do something about the shuttered businesses and derelict neighborhoods that surrounded them. These "anchor institutions"— they weren't 
+going anywhere and they had resources — realized they spent $3.5 billion on goods and services from outside the city. Why not try to redirect some of 
+that purchasing power to create an economy that would employ men and women from the surrounding neighborhoods?
+If only 10 percent of that $3.5 billion was redirected locally, it would inject $350 million into an area facing 25 percent unemployment, they 
+reasoned.
+So the anchor institutions helped create the Evergreen Cooperative, a collective of businesses that provides goods and services in three basic sectors: food, waste and energy. Today the Evergreen Cooperative runs, among other things, an energy-efficient laundry company, a company that grows hydroponic salad greens and a company that installs solar panels and LED lighting throughout downtown Cleveland.
+After the Big Branch disaster, I drove to Cleveland and spoke with  <START:company> Evergreen Energy Solutions <END> ' CEO Steve Kiel who explained the 
+concept. The company operates on a one worker-one vote management model. Kiel himself can never make more than five times the salary of the company's 
+lowest earner. Workers buy into the company through a payroll deduction of 50 cents an hour. In three years, that adds up to $3,000, an ownership 
+stake that will be worth $65,000 in another six years.
+One of  <START:company> Energy Solutions' <END>  crew leaders, Mike McKenzie, told me, "You feel like it's part of your own, so you take it more 
+seriously. People work better together because of the common goal. You share in the profits and you have some say in the direction of the company."
+Such a model of worker-owned businesses provides an elegant solution to the heartless practices that have always ruled the coal industry. It also 
+provides a model for moving forward, a way to, for once, put wealth in the right hands — the hands of those who earned it.
+Kiel told me: "If you can collectively and cooperatively enter into an industry that is run for profit but practices some morals in that — 
+community-based morals — you don't have to take everything and put it in the pocket of the one percent."
+Eastern Kentucky and the east side of Cleveland have a lot in common: they each have too many people living in poverty, high unemployment, and 
+plenty of anchor institutions like hospitals, colleges, government centers, even prisons that could benefit from local goods and services.
+If Eastern Kentucky followed Cleveland's strategy of emphasizing food, energy and waste, the region would not only create a great many sustainable 
+jobs.
+In the long shadow of climate change, it would also cut supply lines and therefore reduce consumption of fossil fuels. More importantly, it would 
+begin to put in place a post-coal energy economy that would replace lost mining jobs with work in energy efficiency, alternative energy and 
+reforestation.
+Such jobs would emerge almost immediately if the Kentucky legislature passed what Ohio already has — a protocol that mandates 60 megawatts of energy 
+a year is generated from non-fossil fuel sources.
+For 100 years, the coal industry has kept Eastern Kentucky poor and had kept the Don Blankenships of the world rich. Gradually, we have come to think 
+of this as simply the inevitable course of events.
+But there's nothing inevitable about the course of history, and anyway, as Wendell Berry has written, the world "inevitable" is for cowards.
+It is time that we start to think much more radically. Expanding highways and high-speed internet isn't going to cut it. It is time that we put 
+wealth where it belongs: in the hands of the workers.
+Erik Reece a University of Kentucky assistant professor, is the author, with James Krupa, of The Embattled Wilderness: The Natural and Human History of
+ Robinson Forest, and the Fight for its Future.
+ 
+ March 15--A rural Norwalk woman accused of attempting to stab a Huron County sheriff's deputy was indicted Friday. In a separate case, a Huron 
+ County grand jury charged a rural New London man in connection with setting fire to a stolen truck.
+Blanche M. Myers, 54, of 602 Greenwich Milan Townline Road, is charged with felonious assault. The first-degree felony is in connection with a Feb. 19 
+incident and is punishable by three to 11 years in prison. Deputy Steve Mancuso responded to Greenwich Milan Townline Road in Hartland Township for 
+the report of a male subject who reportedly threatened to commit suicide. "Deputy Mancuso responded and was able to determine the individual was not 
+threatening suicide with a knife or gun," Detective Sgt. Josh Querin said soon after the incident. Mancuso then encountered Myers, who was in the 
+roadway near the scene. "The female was in the roadway with a knife and her actions were aggressive in nature," Querin said. "She told Deputy Mancuso 
+she was going to kill him and began to charge at him." Huron County Prosecutor Russell Leffler, citing the deputy's report, said Friday it doesn't 
+appear Mancuso "actually got stabbed." "I know he used a stun gun on her. He ended up stopping her with a stun gun," Leffler said. "She (Myers) 
+stated several times, she wanted to kill all of us pigs (and was) spitting at deputies," according to the sheriff's office report. Myers was 
+transported to Fisher-Titus Medical Center and then booked into the Huron County Jail. She remains in custody. "We're fortunate Deputy Mancuso 
+was equipped with a Taser and avoided possible serious injury. ... It was a good result to a potentially dangerous situation," Querin said. In a 
+separate case, Elliott J.M. Shepherd II, 27, of 2678 Jennings Road, New London, was indicted Friday on one count each of grand theft of a motor 
+vehicle, theft, burglary and arson. The charges are in connection with a Dec. 28 incident. "He allegedly stole his ex-father-in-law's truck and 
+torched it -- along with a fancy welder," Leffler said. In a third case, Charles B. Coleman, 24, and Angela L. Wargo, 24, both of Lorain, were 
+indicted Friday on trafficking in a counterfeit controlled substance in connection with a Feb. 23 incident. According to their indictment, the 
+Feb. 23 "offense was committed in the vicinity of a juvenile." Also indicted were: Melanie B. Bath, 50, of 80 Norwood Ave., Apt. 3C, on six counts of 
+forgery in connection with incidents on Dec. 19, 26 and 28 and Jan. 9, 10 and 16. Katie M. Collins, 32, of 223 1/2 Woodbine St., Willard, on 
+complicity to theft in connection with a Jan. 23 incident. Gia L. Guerra, 42, of 1420 Ohio 61, on one count each of possession of oxycodone and 
+possession of hydromorphone, both in connection with a Nov. 16 incident. Curtis M. Hale, 34, of 515 E. Howard St., Willard, on theft in connection 
+with a Jan. 23 incident. Laura K. Hunt, 28, of 739 Ash St., Willard, on one count each of credit card-related receiving stolen property and misuse of 
+a credit card, both in connection with a Dec. 23 incident. Jacob A. LeClair, 24, of 20 North St., Plymouth, on possession of oxycodone in connection 
+with a July 10 incident. Emery R. Slone, 30, of 4039 Weirs Road, Willard, on tampering with evidence in connection with an Oct. 15 incident. In other 
+action, grand jurors transferred the following misdemeanor cases to Norwalk Municipal Court for further possible prosecution: Hope E. McVeigh, 32, of 
+2720 Prairie St., New Haven, on permitting drug abuse in connection with a Nov. 7 incident. Joseph A. Story, 29, of 19 Pitt St., on obstructing 
+official business in connection with a Feb. 4 incident. Jared L. Welch, 27, of 394 Cleveland Road, Apt. 7D, on menacing by stalking in connection 
+with a series of incidents from Nov. 21 to Feb. 3. Corey J. Williams, 35, of Sandusky, on complicity to theft in connection with a Jan. 25 incident. 
+Two local residents were among 30 people indicted this week by an Erie County grand jury. Here are the local suspects and their charges: Stephen R. 
+Barnhart, 35, of 2342 Fitchville River Road, on possession of heroin; tampering with evidence. Tricia A. Hoover (aka Tricia A. Pickett), 38, of 20 
+Reed St., on driving while under the influence of alcohol or drugs. The full list of those indicted is posted at www.norwalkreflector.com.
+___ (c)2014 the Norwalk Reflector (Norwalk, Ohio) Visit the Norwalk Reflector (Norwalk, Ohio) at www.norwalkreflector.com Distributed by 
+MCT Information Services
+
+Mar 15, 2014 (Eat Drink Better:http://eatdrinkbetter.com/ Delivered by Newstex) 
+http://c1eatdrinkbettercom.wpengine.netdna-cdn.com/files/2014/03/news_flurry_shutterstock_180665432.jpg Should you be allowed to know how much mercury 
+you're eating? Or whether your food contains GMOs? Our legal and legislative bodies struggle to answer these food-industry-vexing questions. Meanwhile 
+the USDA bats its eyelashes at Big Ag, and proposes new ways to make poultry packers happy via less regulation, increased food safety risks, and more 
+hazardous conditions for workers. Speaking of foolishness — this time with a dash of hilarious irony — Jon Stewart invites Paul Ryan to eat his own 
+ill-considered words, with which Ryan disdained free lunch programs for poor children. Find the week's best and worst food news here!
+GMO Labeling Bidness!Do you think people should be able to choose whether or not to consume genetically modified foods? Yeah, well: so does nearly 
+everyone[1] in the country! It's a tribute to the massive political clout[2] of  <START:company> Monsanto Privat Ltd<END>  et al that it's taken us so long to 
+finally try to begin wrestling that particular monster into some kind of accommodation with the will of the republic. 1. Maryland Legislature 
+Considers GMO Labeling Bill [3] 2. Florida lawmakers consider GMO food labeling[4] 3. Mass. Legislature Faces Deadline To Advance GMO Labeling Bill[5] 
+4. California's Trying for GMO Labeling: What Needs to Happen for It to Work This Time[6] 5. Battle over GMO labeling rumbling in US[7] Infinite 
+biotech lobbying pockets notwithstanding, the GMO labeling train gains ground by the day — and not only in the U.S. 6. GMOs Should Be Regulated On A 
+National Level In Europe, British Scientists Argue [8] Better late than never, says I!Food Industry Transparency: Yes Please!7. Mercury: Groups Sue 
+FDA for Seafood Health Information[9] — A group of consumer protection and environmental groups filed a federal lawsuit on Monday over the FDA's 
+failure to provide consumer information about mercury contamination. The FDA ignored its own rules, violating federal law, by not responding to a 
+petition by groups seeking increased information about mercury levels in seafood. Now the pro-mercury-transparency forces (Earthjustice[10], Center 
+for Science in the Public Interest[11], and Mercury Policy Project[12]) are seeking a court-ordered deadline for an FDA response. In the FDA's 
+defense, people probably don't care if they're eating tons of toxic metals, right?! After all, such labels could inconvenience the food industry for 
+no better reason than consumer safety; and as everyone knows, that is just NOT[13] what the FDA is all about.Bullpuckey Alert8. Jon Stewart Shreds 
+Paul Ryan's Fake School Lunch Story (Video)[14] — Last week's news roundup[15] included some pretty slimy jerkface-type statements from former 
+veep-candidate Mr. Ryan, in which he used a swiped (inaccurate) story of a young boy's hunger to make the case that federal food programs steal the 
+souls of our children. I know: it makes sense, doesn't it?! So anyway, NO. In related news, you must watch this video or risk cheating yourself 
+horribly!As Jesus once said, 'If you give a man a fish — don't. Period. End of Bible.' — Jon Stewart, a.k.a. B.S. dismantler, occasional food politics 
+commentator, and charmer extraordinaire.This Week in USDA FailSpeaking of bullpuckey: maybe as part of its New Year's resolutions the USDA decided to 
+aim for 'Best Onion[16] Material' this year — that would explain so much! As dark comedy or satire, it sort of works; as an actual taxpayer-
+subsidized reality, though, the situation looks a bit more grim. 9. UPDATE 1-Group seeks court order on USDA over genetically modified alfalfa[17] — 
+According to Reuters, 'A public interest group is asking a court to force the U.S. Department of Agriculture to turn over documents explaining its 
+approval of a genetically altered alfalfa even as the department acknowledged the crop's potential to do environmental damage.'[18] In case you 
+hadn't noticed, the USDA is not functioning as a regulatory agency in the modern agricultural age! A 'regulatory agency' will, at some point, 
+actually enforce some type of regulation upon the entities they're charged to oversee. 10. USDA proposal threatens health of vulnerable poultry 
+workers [19]- This proposal to increase line speeds and decrease regulation is a big steaming stinky gift for bird purveyors and packers like 
+and a nightmare for everyone else involved, both avian and hominid. This proposal perfectly
+highlights (again) the troubling ongoing reality: the USDA is absolutely not functioning as a legitimate regulatory agency, regarding animal 
+protection, food contamination, or worker safety within the food industry in the modern world. That's a problem! Well, you know, unless you're crazy 
+about animal cruelty, salmonella, and worker exploitation — in which case, send the USDA a thank-you note because they're doing things just exactly 
+right!Positivity!Who needs some, by now? (Everyone!) 11. States finding ways to skirt cuts in food stamps, frustrating congressional goals[20] — 
+Congress said, 'Let's starve more poor people, to make a political point.' As it turns out — surprise! — this causes all kinds of problems downstream, 
+for the people in question and the states in which they live. So New York, Connecticut and Pennsylvania are finding ways to de-fang the bite of the 
+food stamp cuts, and anti-hunger activists are encouraging other states to follow suit. That's good news for poor families, bad news for political 
+schemers who'd rather prioritize corporate tax cuts and military spending over domestic anti-poverty programs. So sorry, Congressional pro-hunger 
+guys: some families still get to eat food, despite your best efforts. Deal with it! 12. No Lie Can Live Forever: Predicting a Vegan America by 
+2050[21] — I try to be realistic about the two-legged mammals; but there are signs of progress, and as the author of this piece points out via 
+MLK quote: 'The arc of the moral universe is long, but it bends toward justice.' What do you think? This article makes for interesting reading, 
+in any case. 13. Surprising Science Experiment Backs 5-Second Rule For Dropped Food[22] — One can almost hear teens across America saying, 'Ha! 
+Toldja, mom!' 14. Study suggests Vegan, Paleo diets best for weight loss[23] — Vegan diets also proved beneficial by other measures, such as 
+decreasing risk factors for chronic disease. As regular EDB readers will recall from last week[24], high-protein diets like the typical Paleo 
+endeavor seem well-poised to cause weight loss via premature mortality[25]; they're also wildly unsustainable[26] due to overreliance on 
+intrinsically resource-intensive[27] animal protein, and incredibly more saturated with optional cruelty[28] and institutionalized violence[29] 
+than vegan meal plans. I'm just sayin'.So There You Have It!That's the good, bad, and ugly news from around the Food-O-Sphere this week. Stay 
+informed about all the current events in the food world: subscribe to the EDB newsletter[30], find us on Facebook[31], follow us on Twitter[32], 
+and meet me back here every Saturday for a roundup of the best and worst stories from the world of food! Image credit: photo[33] via Shutterstock[34]. 
+The post Top News from the Food Front: GMO Labeling Boom, Food Stamp Win, USDA Fail[35] appeared first on Eat Drink Better[36]. [1]: http://www.wesupportorganic.com/2014/02/poll-almost-all-americans-want-gmo-food-to-be-labeled.html [2]: http://eatdrinkbetter.com/2012/05/11/gmo-legislation-monsanto-trumps-democracy-vt-ct/ [3]: http://www.huffingtonpost.com/2014/03/12/maryland-gmo-labeling_n_4946613.html [4]: http://www.news4jax.com/news/florida-lawmakers-consider-gmo-food-labeling/24942318 [5]: http://www.wbur.org/2014/03/13/mass-gmo-bill-deadline [6]: http://www.onegreenplanet.org/news/californias-trying-for-gmo-labeling-again-what-needs-to-happen-for-it-to-work-this-time/ [7]: http://www.nst.com.my/world/battle-over-gmo-labeling-rumbling-in-us-1.513252 [8]: http://www.huffingtonpost.com/2014/03/14/gmo-regulation-europe_n_4960501.html [9]: http://www.enewspf.com/latest-news/science/science-a-environmental/50852-mercury-groups-sue-fda-for-seafood-health-information.html [10]: http://earthjustice.org/ [11]: http://cspinet.org/ [12]: http://mercurypolicy.org/ [13]: http://eatdrinkbetter.com/2012/06/12/court-rules-against-fda-antibiotic-crisis-requires-actual-regulation/ [14]: http://www.thewrap.com/jon-stewart-shreds-paul-ryans-fake-school-lunch-story-video/ [15]: http://eatdrinkbetter.com/2014/03/08/top-news-food-front-week-of-3-6-2014/ [16]: http://www.theonion.com/ [17]: http://www.reuters.com/article/2014/03/13/usa-usda-alfalfa-lawsuit-idUSL2N0MA2AF20140313 [18]: http://www.reuters.com/article/2014/03/13/usa-usda-alfalfa-lawsuit-idUSL2N0MA2AF20140313 [19]: http://thehill.com/opinion/op-ed/200612-usda-proposal-threatens-health-of-vulnerable-poultry-workers [20]: http://www.washingtonpost.com/politics/states-finding-ways-to-skirt-cuts-in-food-stamps-frustrating-congressional-goals/2014/03/09/bf9d2620-a7c5-11e3-b61e-8051b8b52d06_story.html [21]: http://www.huffingtonpost.com/kathy-stevens/predicting-a-vegan-america_b_4905691.html [22]: http://www.forbes.com/sites/alicegwalton/2014/03/14/amazingly-science-backs-5-second-rule-for-dropped-food/ [23]: http://www.kvue.com/news/health/Study-suggests-Vegan-and-Paleo-diets-best-for-weight-loss-250247931.html [24]: http://eatdrinkbetter.com/2014/03/08/top-news-food-front-week-of-3-6-2014/ [25]: http://eatdrinkbetter.com/2014/03/05/high-protein-diet-risky-smoking-study-finds/ [26]: http://eatdrinkbetter.com/2010/06/24/environmental-impact-of-eating-meat/ [27]: http://foodtank.com/news/2013/12/why-meat-eats-resources [28]: http://eatdrinkbetter.com/2012/08/24/undercover-video-dairy-cruelty-usda-closes-ca-slaughterhouse/ [29]: https://www.youtube.com/watch?v=tzrRmB40l00 [30]: http://eatdrinkbetter.us1.list-manage.com/subscribe?u=b8e470cd62b328c8a34a40164id=113cdc45f0 [31]: https://www.facebook.com/EatDrinkBetter [32]: https://twitter.com/eatdrink_better [33]: http://www.shutterstock.com/pic-180665432/stock-photo-business-woman-at-desk-with-stock-market-newspapers-concept.html?src=0eDFhZYUkAfNFyo8D1VnVA-1-6 [34]: http://www.shutterstock.com [35]: http://eatdrinkbetter.com/2014/03/15/top-news-food-front-week-of-3-9-2014/ [36]: http://eatdrinkbetter.com
+
+WARRI, Nigeria (AP) - The Nigerian Navy said it has destroyed 260 illegal oil refineries and burned 100,000 tons of contraband fuel, but critics say 
+this targeting of small-time criminals fails to confront the biggest culprits in oil thefts - the politically-connected criminal cartels who sell on 
+the international market.
+Similar missions in the past have failed to slow thefts valued at more than $20 million a day on the world market.  <START:company> Shell Nigeria <END> , 
+the biggest operator in the West African nation, said it lost $1 billion to oil thefts in 2013.
+On Sunday,  Shell  confirmed that an under-sea pipeline leak has forced the closure of its Forcados export terminal, a major 
+installation with capacity to handle 400,000 barrels of crude a day. Spokesman Precious Okolobo said the terminal was closed March 4 and the cause of 
+the leak still is being investigated.
+On Friday night, the commanding officer of the NNS Delta, Capt. Musa Gemu, said sailors destroyed about 260 refineries in the Warri area of the 
+southern Niger Delta. He said they also arrested five suspects.
+A former militant in the area, Cross Ebikpade, said such attacks have little effect as the primitive operations use materials like oil drums that are 
+easily available locally. "You can burn the site today but by next week the operators are back in business," he said.
+Niger Delta residents have told The Associated Press that they feel entitled to steal oil because they have received little reparation for decades of 
+oil spills and gas flaring that have corrupted their environment, killing fishing and agricultural fields.
+Director Patrick Dele Cole of Stop The Theft, an advocacy group, estimates thefts at 250,000 barrels a day - more than a tenth of the country's 
+daily production of 2.2 million barrels. He has told the AP that the thefts will not end until authorities address the fact that profits benefit the 
+same generals and politicians who are ordering the raids on small illegal refineries.
+Another non-government group, the Stakeholders Democracy Network, published a report in October alleging a small group of senior military officials 
+charged with halting the thefts actually have shares in syndicates that are stealing crude. Lower-ranking officers demand large bribes to allow boats 
+carrying stolen crude to leave the country, the network said.
+Dele Cole said, "The whole idea of selling oil illegally was sponsored and maintained by our political leaders" to fund election campaigns.
+With Nigeria gearing up for hotly contested elections in February 2015, it's unlikely there will be any political will to halt the thefts soon.
+Corruption at the highest levels is endemic in Nigeria. The oil thefts are unrelated to some 20 billion petrodollars allegedly missing from the 
+country's treasury, from oil sold between January 2012 and July 2013. President Goodluck Jonathan has announced an international forensic audit to 
+unravel the accounts.
+---
+Faul contributed to this report from Lagos, Nigeria
+
+EUROPE BUSINESS CORRESPONDENT
+On a chilly evening in early March, Peter Munk picks me up from my hotel in his tiny Fiat Punto, manual transmission, that he drives himself. His wife 
+Melanie is stuffed in the back and our destination is the local schnitzel restaurant, where the Munks are treated like anyone else in Klosters, the 
+Swiss ski village near Davos.
+What a change. The last time I spent more than a few minutes with Mr. Munk was in 2008, in Montenegro's glorious Bay of Kotor, the Mediterranean's 
+only fjord. We were on his chartered superyacht, the 50-metre Te Manu, a nautical pleasure palace with a crew of 11 that would have made any oligarch 
+proud.
+Has Mr. Munk, the founder, co-chairman and former chief executive officer of <START:company> Barrick Gold Corp. <END> , fallen on hard times since then? 
+Yes and no.
+At $27-billion, Barrick is worth less than half of its peak in 2011, just before the gold price collapsed and the financial horror of the company's 
+now-suspended Pascua-Lama mining project in the Andes was exposed. Mr. Munk's wealth has declined along with the share price (although he owns only 2.1 
+million common shares), but certainly not to the point where he is flying economy and forgoing oysters and champagne.
+Instead, the  <START:company> Fiat Italia<END>  represents the new, simpler life of the Hungarian emigrant to Canada who turned a motley collection of gold 
+assets into the world's mightiest gold producer. Mr. Munk will leave the Barrick board at the company's annual shareholders' meeting in Toronto on 
+April 30, after which John Thornton will go from co-chairman to chairman. The Barrick board meetings, endless encounters with institutional investors 
+and phone calls at three in the morning will disappear, along with many of the perks that went with his status as one of the world's most powerful 
+mining bosses. The little Fiat will get driven more often. The vacations in Klosters, which the Munk family considers home, and Montenegro will get 
+longer.
+The transition could save his life or kill him. Mr. Munk is 87 and has been equipped with a pacemaker for more than a decade. His famous energy is 
+draining away and he knows he can't do the job any more. At the same time, the man who spent more than half a century building businesses on 
+five continents could find that retirement bores him rigid, or worse. "Leaving Barrick is like a Chinese restaurant, sweet and sour," he says 
+"Sometimes you feel sweet in your mouth, sometimes sour. I live it - Barrick is me. But I have heart issues. I can't travel like I used to."
+I ask if he's worried about his health. "I don't mind dying," he says. "I just don't want Barrick to die."
+Indeed, Mr. Munk is worried about Barrick's future. A couple of years ago, before Mr. Thornton, a former  <START:company> Goldman Sachs <END>  president, 
+joined the Barrick board, he and Ivan Glasenberg, CEO of  <START:company> Glencore International <END>  (now  <START:company> Glencore Xstrata <END> ), talked 
+about merging their companies. Mr. Munk's idea was to create a fully diversified multinational that could withstand the jarring ups and downs of the 
+commodities cycle.
+If that had happened, the world's biggest gold mining company and the world's biggest commodities trader would have formed a global resources giant to 
+rival  <START:company> BHP Billiton <END>  and  <START:company> Rio Tinto <END> , with a market value (based on today's values) of about $67-billion (U.S.). 
+"It would have been a perfect combination," Mr. Munk says.
+Mr. Munk talks to me from the living room of his Klosters chalet, which is called Viti Levu, after the Fijian island where he and partner 
+David Gilmour started the Southern Pacific Hotel chain in the 1960s. The woody chalet is large and comfortable, with a heated pool in the basement, 
+but is far from ostentatious. Its best feature is the magnificent view of Gotschnagrat Mountain, which the Munk family has skied since the 1970s.
+Mr. Munk stopped skiing two years ago, because of his heart, and it was a big blow to his recreational life; he had skied every year for 71 years. Melanie, his second wife, and their five children - two with his first wife, Linda, two with Melanie, and one adopted - keep the family tradition going. The walls are decorated with enlarged photos of the skiing Munks. Melanie keeps a large family scrapbook in the living room and shows me the newspaper articles about the ski disaster in March, 1988, when a Gotschnagrat avalanche severely injured the wife of her cousin Charles Palmer-Tomkinson, who was skiing with Prince Charles, and killed Major Hugh Lindsay, one of Charles's best friends. On separate occasions, Mr. Munk and his wife have broken bones on the runs, which are considered among the most challenging in Europe.
+A mining mega-merger
+When I met Mr. Munk in Montenegro six years earlier, he was a mere 80 years old and was full of bluster and optimism as he talked about his plans for 
+the future, as if he were an MBA fresh out of school. Gold prices were on the rise and the financial crisis triggered by the Lehman Bros. collapse was 
+still a couple of months away. He and Barrick seemed on top of the world.
+At the time , the product of 17 takeovers, including  <START:company> Lac Minerals <END> ,  <START:company> Homestake Mining <END>  and  <START:company> Placer Dome <END> , 
+was the unchallenged gold mining leader. It was on the verge of starting construction of the enormous Pascua-Lama gold and silver mine, with more than
+15 million ounces of proven and probable gold reserves and an astounding 675 million ounces of silver.
+Mr. Munk was using his fame and fortune - he denies ever reaching true billionaire status - to have fun and make a few extra bucks on the side. 
+The big non-Barrick project was Porto Montenegro, the former Yugoslav naval base that Mr. Munk and several rich partners, among them Russian oligarch Oleg Deripaska and Lord Jacob Rothschild, are turning into a superyacht marina and resort.
+In typical Munk fashion, the investment happened through luck and circumstance.
+A few years earlier, he was swimming off his chartered yacht in Monaco, felt something strange brush his skin and realized he had had a distasteful 
+encounter with a condom. At that point, he decided to ditch the overcrowded and dirty waters of Monaco, learned about a discarded naval base in 
+clapped-out Montenegro, assembled a team of yacht-loving investors and worked out a killer deal with the government, which allows the owners of 
+foreign-registered yachts to escape fuel taxes when they fill up their floating gin palaces. The project has 200 yacht berths, with another 200 
+to go. "I'm very proud of it," Mr. Munk says.
+Meanwhile, gold prices rose relentlessly - $1,200 (U.S.) in mid-2010, peaking out at almost $1,900 a year later. Each $100 rise in gold was larding 
+another $750-million onto Barrick's bottom line. In 2011, profit was $4.5-billion, the level of a big Canadian bank. In spite of the obscene profits, 
+Mr. Munk had no intention of leaving well enough alone. He knew that one-product commodity companies were vulnerable to boom-bust cycles (at the time,
+he was not aware that the Pascua Lama disaster would accelerate Barrick's fall from grace).
+So he called Ivan Glasenberg, the head of  <START:company> Glencore AG<END>  (whose offices, in the Swiss canton of Zug are not far from Klosters). 
+Mr. Glasenberg is the secretive South African-born accountant who learned the art of commodities trading from Marc Rich of  <START:company> Marc Rich + Co. <END>  
+Mr. Rich made fortunes from trading oil and other commodities but pushed his luck too far and was indicted in the 1980s for racketeering, tax evasion 
+and trading with the enemy - Iran. He was pardoned by Bill Clinton on his last day in the White House in January, 2001, by which time Mr. Glasenberg 
+and his team had taken Mr. Rich's old shop and were transforming into a commodities-trading powerhouse.
+Through its own mines and a controlling interest in Xstrata, the Anglo-Swiss miner that bought Canada's  <START:company> Falconbridge Corp.<END>  in 2006, 
+ <START:company> Glencore International<END>  was emerging as a mining force too. In 2011, Mr. Munk, evidently well aware of the soaring value of Barrick 
+shares, which could be used as a takeover or merger currency, started secret merger talks with  <START:company> Glencore International<END> .
+Mr. Munk's idea was to create a diversified, Canadian-based mining giant that could compete with  <START:company> BHP <END> , the world's largest 
+mining group,  <START:company> Rio Tinto <END> , Brazil's Vale (which bought Inco) and Anglo American. Part of the rationale was financial. A diversified
+miner would be able to insulate itself from the worst of the cyclical downturns. Gold, for instance, and copper, are countercyclical; the former is 
+bought by investors when economies are falling apart, the latter when economies are posting strong growth.  Glencore's   commodities 
+trading and logistics business, a robust money maker regardless of prices, would also protect the enlarged group. The biggest companies also have the 
+best access to the international capital markets, a necessity to sate the voracious capital appetites of mining companies.
+But Mr. Munk's desire to transform  into a  <START:company> BHP <END>  was also emotional, which does not necessarily mean it
+was driven by shameless ego. Mr. Munk decried the loss of  Inco ,  Falconbridge  and  Alcan
+to foreign takeovers during the great Canadian selloff in the middle part of the last decade (which also saw 
+ Stelco ,  Dofasco ,  <START:company> Algoma Steel <END>  and a raft of energy companies vanish). At one point, during 
+the "hollowing out" of Corporate Canada, he charged into the Toronto offices of  <START:company> The Globe and Mail <END>  to tell the editorial board that 
+the sales would damage Canada's ability to compete globally and that they should be reviewed carefully by the federal government.
+When Mr. Munk talks about vanishing companies, he leaps out of his chair in the chalet and paces back and forth, raging like a Fortune 500 King Lear. 
+He rattles off the names of global companies in small countries -  <START:company> Nestlé AG <END>  in Switzerland,  <START:company> Volvo BV <END>  in Sweden, 
+ <START:company> Philips AG<END>  in the Netherlands. "Why don't we have one?" he says. "Why the hell should the Brazilians take our best nickel company?"
+Mr. Munk claims a merged  <START:company> Barrick-Glencore <END>  would have kept its Canadian identity even if Mr. Glasenberg became the boss. The 
+trading division would have been headquartered in Switzerland, the mining in Toronto (the hometown of Mr. Glasenberg's wife). However, the merger idea 
+never made it beyond the offices of Mr. Munk and Mr. Glasenberg. Mr. Munk says gold "didn't fit into the trading pattern" of Glencore, which uses 
+ships and warehouses to trade coal and other bulk commodities. "It's also not easy to get two cultures together and there would have been a great 
+amount of resistance from my shareholders, to switch them when there was a runup on the gold price. It would be very difficult [for them to 
+contemplate] that the future cannot be in gold alone," he says.
+But Mr. Munk got a sort of consolation prize in the form of John Thornton, who shares his ideas that Barrick should become bigger and more 
+diversified. "Operating under the Canadian flag is a huge competitive advantage," Mr. Thornton says in phone interview. "The priority is to be the world's leading gold company and to be the leading, or a leading, copper company."
+A disastrous mining project
+Mr. Thornton was  <START:company> Goldman Sachs's <END>  president and co-chief operating officer until 2003, after which he delved headfirst into China. 
+He served as a director of  <START:company> HSBC Holdings <END> , the bank whose roots are in China, until 2013, sits on the international advisory 
+council of China Investment Corp. and is a professor at Beijing's Tsinghua University. He was appointed co-chairman in early 2012 and awarded a 
+$11.9-million (U.S.) signing bonus whose disclosure a year later, when gold prices were sinking and  <START:company> Barrick Holding<END>  got whacked by a 
+$4.4-billion after-tax impairment charge, enraged shareholders. They voted against it, but since the vote was not binding, the payment went ahead.
+Mr. Munk defends his man to the hilt, noting that the signing bonus was small compared to Barrick's market value and arguing that Mr. Thornton is the 
+right man to turn Barrick into a global mining leader. "It took me years to find John Thornton," Mr. Munk says. "He wants to build a global entity."
+If falling gold prices were the only problem facing Barrick, Mr. Munk would be leaving it relatively unscathed. But he is not - Pascua Lama took the 
+shine off his golden rule and delivered the message that the company needs to learn a thing or two about mine development in difficult terrain. The ultimate insult came when the market values of Vancouver's Goldcorp and Barrick converged. At last count, Barrick's Toronto stock exchange value was $27-billion (Canadian), Goldcorp's $25.8-billion. The minor difference becomes shocking when you realize that Goldcorp's annual production, at 2.67 million ounces in 2013, was well less than half of Barrick's 7.66 million ounces.
+Investors, in other words, are valuing Goldcorp's per ounce production much more highly than Barrick's. That will have to change if Barrick is to regain the confidence of investors. To do so, Mr. Thornton and Jamie Sokalsky, the CEO who replaced Aaron Regent, who took the fall for the Pascua-Lama disaster, will have to ensure that Pascua-Lama's development costs are tightly controlled once mine construction resumes and that a cost blow-out like Pascua-Lama never happens again. "Priorities one through five are operational excellence," Mr. Thornton said.
+When Mr. Munk talks about Pascua-Lama, his otherwise strong voice falls to a whisper and he slumps in his chair. Indeed, the scale of the disaster is 
+hard to fathom. In 2013, Barrick reported a loss of $10.4-billion (U.S.), due largely to the writedowns related to Pascua-Lama and the overpriced 2011
+purchase of copper producer  <START:company> Equinox Minerals <END> .
+What went wrong? To this day, Mr. Munk insists he doesn't know how the costs soared to outrageous levels and why corrective measures were not taken 
+earlier. It's a classic mystery: Who knew what when? "I could not believe the day [in 2012] when I was told we could be multibillion dollars over 
+budget," he says. "For 30 years, we never missed a budget."
+Pascua-Lama is located at a height of 5,000 metres in the Andes, on the southern reaches of the Atacama Desert. Because of the dizzying elevation, 
+location in two countries and proximity to glaciers, it presented a unique geopolitical, engineering and construction challenge. The air is thin and 
+the high winds and low temperatures can be vicious. Feeding the thousands of workers and removing the garbage and human waste they produced proved to 
+be a hideously expensive logistical nightmare. "Every hour of productive work required probably five hours of work to keep [the employees] up there
+ working," Mr. Munk says.
+As Barrick was building, the environmental regulations multiplied. "Each new rule brought the need to build another wall," he says. "Resolving each 
+and every one of them resulting in more building. The cost of building escalated to the point it was unreal."
+The development costs went to $8-billion from the initial $3-billion estimate (about $5-billion has been spent so far). By last autumn,  Barrick  
+had had enough and put the project into cold storage. It plans to revive it once gold prices recover and it figures out a ways to control the costs. 
+Bringing in a development partner to spread the risk and the workload is one idea that is gaining currency within Barrick's executive offices.
+Enter Mr. Thornton, who is impeccably connected in China. "One thing would be to consider the Chinese as operational partners either for Pascua Lama 
+or the other mines," he says, referring to the other five big deposits nearby. "The Chinese are very good at bringing in projects on time and on budget."
+Mr. Munk refers to a "specific event" that he and Mr. Thornton had hoped to announce by now. He won't say what it was, though it may have been news about
+a Chinese partner or possibly the sale of African Barrick.  Barrick  tried to sell African Barrick, Tanzania's biggest gold producer,
+ to  <START:company> China National Gold Group <END> , but those talks collapsed last year. Since then,  <START:company> Barrick <END>  has been paring back 
+its controlling stake in African Barrick, although an outright sale of the remaining 64-per-cent investment is not out of the question.
+The "event" could also been the purchase of a large gold producer. But given the sharply reduced value of Barrick shares, their use as a takeover 
+currency has vastly diminished.
+Mr. Munk has a month left on the job. He will no doubt step down from the board with a standing ovation at the annual general meeting. In spite of 
+the Pascua-Lama fiasco, he did build the world's biggest gold company and, for prolonged periods, created a lot of wealth for shareholders. He also 
+spared Toronto from mining company oblivion during the hollowing-out era. While he lived well, he did give away much of his wealth - $200-million 
+Canadian) and counting - to good causes, such as the Peter Munk Cardiac Centre at Toronto's University Health Network.
+Barrick will never be far from his heart. He hopes Mr. Thornton and the senior executives will ask his advice on how Barrick can evolve into a global 
+mining champion. He would love to see Barrick achieve that status before he goes to the great golden ore body in the sky. "Barrick is my legacy," he 
+says. "The thing is to leave something behind that is meaningful, especially for me. I'm an immigrant. I owe Canada. Canada gave me everything 
+I have."
+**********
+'The end result was chaos.' On Clairtone's collapse
+1967: Despite its high visibility and celebrity endorsements, Clairtone closes. Mr. Munk and business partner David Gilmour co-founded the company in 
+1958.
+'We hit on gold.' On the 'hypothetical debate' that led to the decision to move away from oil and gas
+1983:  <START:company> Barrick Resources Corporation <END>  is founded, eventually focusing on gold extraction.
+'Twenty-five more Peter Munks starting 25 more American Barricks every single year - that would be good for Canada.'
+1994-1999: Barrick expands from North America into South America and Africa after acquiring  <START:company> Lac Minerals, Ltd. <END> , 
+ <START:company> Arequipa Resources Ltd. <END> , and  <START:company> Sutton Resources Ltd. <END> 
+'It never occurred to me that a fraud of this magnitude could happen.' Testimony in 2005 Felderhof trial
+1997: Barrick loses out in a proposed joint venture with  <START:company> Bre-X Minerals Ltd. <END>  Bre-X is later involved in Canada's biggest mining 
+scandal when it is discovered that a key mine had no gold.
+'I'm very proud of it.'
+2008: Mr. Munk and fellow investors pump more than $400-million (U.S.) to transform a coastal town in Montenegro into the world's premier superyacht 
+destination.
+'I've made some money and I wish to give it back.'
+2010: Mr. Munk gives $35-million to the University of Toronto's Munk School of Global Affairs, adding to past gifts, including $66-million to 
+Toronto General Hospital.
+'It really felt, it really smelt, and it really looked like, the perfect storm.'
+2013: Barrick is forced to suspend construction at its key Pascua Lama gold mine in South America due to falling prices and rising costs.
+'I really believe that Barrick's destiny is the North American [Rio Tinto] and BHP, and that's what it will be without a shadow of a doubt.'
+Dec. 4, 2013: Peter Munk announces his retirement as chairman, along with two other long-standing directors.
+
+
+
+
+
+
+
+
+
+
+
+
+
