@@ -1,7 +1,6 @@
 package com.demo.rep.data.provider;
 
 import java.util.List;
-import java.util.logging.Logger;
 
 import com.demo.rep.entity.NewsArticle;
 import com.demo.rep.xml.parser.DefaultXmlListToObjectListParser;

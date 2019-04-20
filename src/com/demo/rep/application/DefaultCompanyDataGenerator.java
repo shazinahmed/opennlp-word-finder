@@ -42,18 +42,17 @@ public class DefaultCompanyDataGenerator implements CompanyDataGenerator {
 				Span[] probableCompanyNameIndexSpans = companyNameFinder.find(tokens);
 				for (Span probableCompanyNameIndexSpan : probableCompanyNameIndexSpans) {
 					StringBuilder builder = new StringBuilder();
-					for (int i = probableCompanyNameIndexSpan.getStart(); i < probableCompanyNameIndexSpan.getEnd(); i++) {
+					for (int i = probableCompanyNameIndexSpan.getStart(); i < probableCompanyNameIndexSpan
+							.getEnd(); i++) {
 						builder.append(tokens[i]);
-						if (i < probableCompanyNameIndexSpan.getEnd() - 1) {
-							builder.append(" ");
-						}
+						builder.append(" ");
 					}
 					String probableCompanyName = builder.toString();
 					if (!probableCompaniesAlreadyCheckedList.contains(probableCompanyName)) {
 						SortedMap<String, String> probableNamesFromTheTrie = companyTrie.prefixMap(probableCompanyName);
 						if (probableNamesFromTheTrie.size() > 0) {
 							probableCompaniesAlreadyCheckedList.add(probableCompanyName);
-							//TODO Rather than picking the first element, do a better matching
+							// TODO Rather than picking the first element, do a better matching
 							logData(probableCompanyName, probableNamesFromTheTrie.firstKey());
 						}
 					}
@@ -86,6 +85,6 @@ public class DefaultCompanyDataGenerator implements CompanyDataGenerator {
 		// TODO Do something better than printing in the console
 		System.out.println(probableCompanyName);
 		System.out.println(nameFound);
-		System.out.println(System.getProperty("line.seperator"));
+		System.out.println(System.lineSeparator());
 	}
 }

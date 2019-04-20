@@ -25,14 +25,14 @@ public class DefaultCompanyDataTrainer implements CompanyDataTrainer {
 	@Override
 	public void trainModel() {
 		String trainingData = "training.TXT";
-		InputStreamFactory inputStreamFactory;
+		InputStreamFactory inputStreamFactory = null;
 		try {
 			inputStreamFactory = new MarkableFileInputStreamFactory(new File(trainingData));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
 		Charset charset = Charset.forName("UTF-8");
-		ObjectStream<String> lineStream;
+		ObjectStream<String> lineStream = null;
 		try {
 			lineStream = new PlainTextByLineStream(inputStreamFactory, charset);
 		} catch (IOException e) {

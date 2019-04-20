@@ -3,7 +3,6 @@ package com.demo.rep.entity;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.demo.rep.common.SpecialCharacters;
 import com.opencsv.bean.CsvBindByName;
 
 public class Company {
@@ -44,19 +43,5 @@ public class Company {
 	public void addAliases(List<String> pAliases)
 	{
 		aliases.addAll(pAliases);
-	}
-	
-	@Override
-	public String toString()
-	{
-		StringBuilder builder = new StringBuilder(getName());
-		//TODO: better to move the string to some common file
-		builder.append(System.getProperty("line.separator"));
-		builder.append("Aliases: ");
-		for (String alias : getAliases())
-		{
-			builder.append(alias).append(SpecialCharacters.COMMA.toString()).append(SpecialCharacters.SPACE.toString());
-		}
-		return builder.toString();
 	}
 }

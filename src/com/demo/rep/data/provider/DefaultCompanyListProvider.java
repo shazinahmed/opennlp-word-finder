@@ -1,12 +1,9 @@
 package com.demo.rep.data.provider;
 
 import java.util.List;
-import java.util.logging.Logger;
 
 import com.demo.rep.csv.parser.CSVParser;
 import com.demo.rep.csv.parser.DefaultCSVParser;
-import com.demo.rep.data.extractor.CompanyAliasGenerator;
-import com.demo.rep.data.extractor.DefaultCompanyAliasGenerator;
 import com.demo.rep.entity.Company;
 
 public class DefaultCompanyListProvider implements CompanyListProvider {
