@@ -53,7 +53,9 @@ public class DefaultCompanyDataGenerator implements CompanyDataGenerator {
 					if (!probableCompaniesAlreadyCheckedList.contains(probableCompanyName)) {
 						SortedMap<String, String> probableNamesFromTheTrie = companyTrie.prefixMap(probableCompanyName);
 						if (probableNamesFromTheTrie.size() > 0) {
+							//This is to prevent duplicate checks
 							probableCompaniesAlreadyCheckedList.add(probableCompanyName);
+							//TODO: We are picking up the first match, which will not be true in many cases.
 							companiesMentioned.add(probableNamesFromTheTrie.firstKey());
 						}
 					}
