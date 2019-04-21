@@ -9,6 +9,7 @@
 
 **Solution overview**
 
+
 1. Train a model using Apache OpenNLP to read company names from the news articles. This has been done using 16 articles from the given data. That file is   available as training.TXT in the project. This step is done only once.
 
 2. Extract data from the CSV and XML files. [OpenCSV](http://opencsv.sourceforge.net/) and JAXB has been used respectively.
