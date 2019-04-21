@@ -19,7 +19,7 @@ public class DefaultCSVParserTest {
 
 	@Test
 	public void testGetObjects() {
-		assertEquals(6, underTest.getObjects(CSV_TEST).size());
+		assertEquals(13, underTest.getObjects(CSV_TEST).size());
 	}
 
 }

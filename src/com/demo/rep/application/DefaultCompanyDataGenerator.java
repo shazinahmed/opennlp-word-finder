@@ -3,6 +3,7 @@ package com.demo.rep.application;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -26,8 +27,9 @@ public class DefaultCompanyDataGenerator implements CompanyDataGenerator {
 	private static final String CUSTOM_TRAINED_COMPANY_MODEL = "en-ner-company.bin";
 
 	@Override
-	public void generateData(List<Company> companies, List<NewsArticle> articles) {
+	public List<String> generateData(List<Company> companies, List<NewsArticle> articles) {
 
+		List<String> companiesMentioned = new ArrayList<String>();
 		try (InputStream inputStreamTokenizer = new FileInputStream(TOKENIZER_MODEL);
 				InputStream inputStreamCompany = new FileInputStream(CUSTOM_TRAINED_COMPANY_MODEL);) {
 
@@ -52,8 +54,7 @@ public class DefaultCompanyDataGenerator implements CompanyDataGenerator {
 						SortedMap<String, String> probableNamesFromTheTrie = companyTrie.prefixMap(probableCompanyName);
 						if (probableNamesFromTheTrie.size() > 0) {
 							probableCompaniesAlreadyCheckedList.add(probableCompanyName);
-							// TODO Rather than picking the first element, do a better matching
-							logData(probableCompanyName, probableNamesFromTheTrie.firstKey());
+							companiesMentioned.add(probableNamesFromTheTrie.firstKey());
 						}
 					}
 				}
@@ -61,6 +62,7 @@ public class DefaultCompanyDataGenerator implements CompanyDataGenerator {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		return companiesMentioned;
 	}
 
 	private TokenizerME getTokenizer(InputStream inputStream) throws IOException {
@@ -79,12 +81,5 @@ public class DefaultCompanyDataGenerator implements CompanyDataGenerator {
 		Trie<String, String> companyTrie = new PatriciaTrie<>();
 		companies.stream().forEach(company -> companyTrie.put(company.getName(), null));
 		return companyTrie;
-	}
-
-	private void logData(String probableCompanyName, String nameFound) {
-		// TODO Do something better than printing in the console
-		System.out.println(probableCompanyName);
-		System.out.println(nameFound);
-		System.out.println(System.lineSeparator());
 	}
 }

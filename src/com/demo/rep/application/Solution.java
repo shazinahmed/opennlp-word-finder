@@ -60,7 +60,8 @@ public class Solution {
 		LOGGER.info("Calculating number of references");
 		
 		CompanyDataGenerator companyDataGenerator = new DefaultCompanyDataGenerator();
-		companyDataGenerator.generateData(companies, articles);
+		List<String> companiesMentioned = companyDataGenerator.generateData(companies, articles);
+		companiesMentioned.stream().forEach(company -> System.out.println(new StringBuilder(company).append(System.lineSeparator())));
 		
 		Instant end = Instant.now();
 		LOGGER.info(new StringBuilder("Reference calculation completed in ").append(Duration.between(start, end).getSeconds()).append(" seconds").toString());

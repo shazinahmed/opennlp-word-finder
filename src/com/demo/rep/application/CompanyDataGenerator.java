@@ -7,6 +7,6 @@ import com.demo.rep.entity.NewsArticle;
 
 public interface CompanyDataGenerator {
 	
-	void generateData(List<Company> companies, List<NewsArticle> articles);
+	List<String> generateData(List<Company> companies, List<NewsArticle> articles);
 
 }
