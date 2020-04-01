@@ -22,7 +22,7 @@ public class Solution {
 	public static void main(String[] args) throws JAXBException, IllegalStateException, FileNotFoundException {
 		//createTrainedModel();
 
-		String path = "D:\\personal\\job\\RepRisk";
+		String path = "D:\\personal";
 		List<Company> companies = getCompanies(path);
 		List<NewsArticle> articles = getNewsArticles(path);
 		printCompanyData(companies, articles);

@@ -4,7 +4,7 @@ import com.opencsv.bean.CsvBindByName;
 
 public class Company {
 	
-	@CsvBindByName(column="RepRisk Company ID")
+	@CsvBindByName(column="Company ID")
 	private Long id;
 	
 	@CsvBindByName(column="Company Name")
